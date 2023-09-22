@@ -9,10 +9,10 @@
 
   <Rakkle_Student.title>Rakkle Student</Rakkle_Student.title>
   <Rakkle_Student.titleShort>Student</Rakkle_Student.titleShort>
-  <Rakkle_Student.baseDesc>[PAWN_nameDef] learned how to survive in the periphery at the academy. [PAW_pronoun] learned to make lasting friendships and stand together against the harsh realities of life in the galaxy.</Rakkle_Student.baseDesc>
+  <Rakkle_Student.baseDesc>[PAWN_nameDef] научился выживать на периферии в академии. [PAW_pronoun] научились заводить прочные дружеские отношения и вместе противостоять суровым реалиям жизни в галактике.</Rakkle_Student.baseDesc>
 
-  <Rakkle_EmergencyFood.title>Rakkle Emergency food</Rakkle_EmergencyFood.title>
-  <Rakkle_EmergencyFood.titleShort>Emergency food</Rakkle_EmergencyFood.titleShort>
+  <Rakkle_EmergencyFood.title>Еда для экстренных случаев Раккл</Rakkle_EmergencyFood.title>
+  <Rakkle_EmergencyFood.titleShort>Еда для экстренных случаев</Rakkle_EmergencyFood.titleShort>
   <Rakkle_EmergencyFood.baseDesc>[PAWN_nameDef] is a young Rakkle kidnapped by a cannibal tribe. [PAWN_pronoun] spent months watching friends and family disappear one after the other without much hope for survival. After digging a tunnel in secret, [PAWN_nameDef] managed to escape, keeping [PAWN_possessive] life but bearing the scars of missing family and broken innocence.</Rakkle_EmergencyFood.baseDesc>
 
   <Rakkle_GiftedChild.title>Rakkle Gifted child</Rakkle_GiftedChild.title>
