@@ -7,20 +7,20 @@
   <Rakkle_ColonyKid.titleShort>ребенок из колонии</Rakkle_ColonyKid.titleShort>
   <Rakkle_ColonyKid.baseDesc>[PAWN_nameDef] вырос в свободном поселении Раккл, мечтая о приключениях и не подозревая о бремени, с которым родился [PAWN_pronoun].</Rakkle_ColonyKid.baseDesc>
 
-  <Rakkle_Student.title>Rakkle Student</Rakkle_Student.title>
-  <Rakkle_Student.titleShort>Student</Rakkle_Student.titleShort>
+  <Rakkle_Student.title>Студент Раккл</Rakkle_Student.title>
+  <Rakkle_Student.titleShort>Студент</Rakkle_Student.titleShort>
   <Rakkle_Student.baseDesc>[PAWN_nameDef] научился выживать на периферии в академии. [PAW_pronoun] научились заводить прочные дружеские отношения и вместе противостоять суровым реалиям жизни в галактике.</Rakkle_Student.baseDesc>
 
   <Rakkle_EmergencyFood.title>Еда для экстренных случаев Раккл</Rakkle_EmergencyFood.title>
   <Rakkle_EmergencyFood.titleShort>Еда для экстренных случаев</Rakkle_EmergencyFood.titleShort>
   <Rakkle_EmergencyFood.baseDesc>[PAWN_nameDef] is a young Rakkle kidnapped by a cannibal tribe. [PAWN_pronoun] spent months watching friends and family disappear one after the other without much hope for survival. After digging a tunnel in secret, [PAWN_nameDef] managed to escape, keeping [PAWN_possessive] life but bearing the scars of missing family and broken innocence.</Rakkle_EmergencyFood.baseDesc>
 
-  <Rakkle_GiftedChild.title>Rakkle Gifted child</Rakkle_GiftedChild.title>
-  <Rakkle_GiftedChild.titleShort>Gifted child</Rakkle_GiftedChild.titleShort>
+  <Rakkle_GiftedChild.title>Одаренный ребёнок Раккл</Rakkle_GiftedChild.title>
+  <Rakkle_GiftedChild.titleShort>Одарённый ребёнок</Rakkle_GiftedChild.titleShort>
   <Rakkle_GiftedChild.baseDesc>[PAWN_nameDef] is a gifted child among Rakkle youths, and received a high level of education. [PAWN_pronoun] did very well but could not stand the pressure and expectations, fleeing [PAWN_possessive] home colony.</Rakkle_GiftedChild.baseDesc>
 
-  <Rakkle_Bully.title>Rakkle Bully</Rakkle_Bully.title>
-  <Rakkle_Bully.titleShort>Bully</Rakkle_Bully.titleShort>
+  <Rakkle_Bully.title>Хулиган Раккл</Rakkle_Bully.title>
+  <Rakkle_Bully.titleShort>Хулиган</Rakkle_Bully.titleShort>
   <Rakkle_Bully.baseDesc>[PAWN_nameDef] was raised in a smaller Rakkle settlement, that lacked the resources to care for everyone properly. Without parents to look after [PAWN_possessive], [PAWN_pronoun] took what [PAWN_pronoun] wanted through force and coercion.</Rakkle_Bully.baseDesc>
 
   <Rakkle_Subject.title>Rakkle Subject</Rakkle_Subject.title>
