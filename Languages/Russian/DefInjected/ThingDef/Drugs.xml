@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ChemicalDef>
+        <defName>RakkleShedPromoter</defName>
+        <label>RakkleShedPromoter</label>
+        <addictionHediff>Hediff_RakkleShedPromoterA</addictionHediff>
+        <toleranceHediff>Hediff_RakkleShedPromoterT</toleranceHediff>
+        <canBinge>false</canBinge>
+    </ChemicalDef> -->
+
+  <RS_SnakeSkin.label>Сброшенная кожа ракклов</RS_SnakeSkin.label>
+  <RS_SnakeSkin.description>Сброшенная кожа ракклов. Её используют для создания глистогонного средства.</RS_SnakeSkin.description>
+
+  <RS_helminthic.label>Глистогонное из сброшенной кожи ракклов</RS_helminthic.label>
+  <RS_helminthic.description>Средство от паразитов, полученное из кожи ракклов. Лечит кишечные инфекции.</RS_helminthic.description>
+
+
+</LanguageData>

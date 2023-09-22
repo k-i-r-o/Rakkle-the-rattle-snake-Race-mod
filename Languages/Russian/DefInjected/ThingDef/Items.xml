@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 경단 관련 -->
+
+  <!--<RS_BigSimpleRawMeatBall.label>Большой мясной шар</RS_BigSimpleRawMeatBall.label>-->
+  <!--<RS_BigSimpleRawMeatBall.description>Шар с сырым мясом. Мясо измельчили чтобы шары легче было проглотить. Одному ракклу хватит одного такого шара на 4 дня.</RS_BigSimpleRawMeatBall.description>-->
+
+  <!--<RS_BigLavishRawMeatBall.label>Большой и вкусный мясной шар</RS_BigLavishRawMeatBall.label>-->
+  <!--<RS_BigLavishRawMeatBall.description>Шар с сырым мясом. Мясо измельчили, предварительно убрав из него все кости и хрящи, чтобы шары легче было проглотить. Одному ракклу хватит одного такого шара на 4 дня.</RS_BigLavishRawMeatBall.description>-->
+
+
+  <!-- 허물관련 -->
+
+  <!--<RS_SnakeSkin.label>Сброшенная кожа ракклов</RS_SnakeSkin.label>-->
+  <!--<RS_SnakeSkin.description>Сброшенная кожа ракклов. Её используют для создания глистогонного средства.</RS_SnakeSkin.description>-->
+
+  <!--<RS_helminthic.label>Глистогонное из сброшенной кожи ракклов</RS_helminthic.label>-->
+  <!--<RS_helminthic.description>Средство от паразитов, полученное из кожи ракклов. Лечит кишечные инфекции.</RS_helminthic.description>-->
+
+
+</LanguageData>

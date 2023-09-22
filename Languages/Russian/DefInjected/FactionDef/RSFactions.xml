@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 플레이어 -->
+
+  <RS_PlayerFaction.label>Новое начало</RS_PlayerFaction.label>
+  <RS_PlayerFaction.description>Это ваше поселение ракклов.</RS_PlayerFaction.description>
+  <RS_PlayerFaction.pawnsPlural>Колонисты</RS_PlayerFaction.pawnsPlural>
+
+
+  <!-- 요람 -->
+
+  <Cradle.label>Питомник ракклов</Cradle.label>
+  <Cradle.description>Это питомник выращивающий ракклов для продажи в качестве рабов. Хотя питомники издали и выглядят как поселения, у них совершенно другие цели. Так же они занимаются налетами на другие поселения для захвата рабов, преимущественно ракклов.</Cradle.description>
+  <Cradle.pawnsPlural>Ракклы</Cradle.pawnsPlural>
+  <Cradle.leaderTitle>Босс</Cradle.leaderTitle>
+
+  <FRU.label>Коалиция Свободных ракклов</FRU.label>
+  <FRU.description>Коалиция Свободных ракклов. В этом поселении живут самые разные ракклы.</FRU.description>
+  <FRU.pawnsPlural>Ракклы</FRU.pawnsPlural>
+  <FRU.leaderTitle>Лидер</FRU.leaderTitle>
+
+
+</LanguageData>

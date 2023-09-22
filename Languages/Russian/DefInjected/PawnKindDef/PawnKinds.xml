@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Player Colonist -->
+
+  <RS_Colonist.label>Раккл колонист</RS_Colonist.label>
+  <RS_Colonist.labelPlural>Ракклы колонисты</RS_Colonist.labelPlural>
+  <RS_Colonist.labelMale>мужчина Раккл колонист</RS_Colonist.labelMale>
+  <RS_Colonist.labelMalePlural>мужчины Ракклы колонисты</RS_Colonist.labelMalePlural>
+  <RS_Colonist.labelFemale>женщина Раккл колонистка</RS_Colonist.labelFemale>
+  <RS_Colonist.labelFemalePlural>женщины Ракклы колонистки</RS_Colonist.labelFemalePlural>
+
+
+  <!-- NPC Colonist -->
+
+  <RS_Fugitive.label>Раккл бродяга</RS_Fugitive.label>
+  <RS_Fugitive.labelPlural>Ракклы бродяги</RS_Fugitive.labelPlural>
+  <RS_Fugitive.labelMale>мужчина Раккл бродяга</RS_Fugitive.labelMale>
+  <RS_Fugitive.labelMalePlural>мужчины Ракклы бродяги</RS_Fugitive.labelMalePlural>
+  <RS_Fugitive.labelFemale>женщина Раккл бродяга</RS_Fugitive.labelFemale>
+  <RS_Fugitive.labelFemalePlural>женщины Ракклы бродяги</RS_Fugitive.labelFemalePlural>
+
+
+  <!-- Cradle Shield Slave -->
+
+  <CRD_ShieldSlave.label>Раккл живой щит</CRD_ShieldSlave.label>
+  <CRD_ShieldSlave.labelPlural>Ракклы живые щиты</CRD_ShieldSlave.labelPlural>
+  <CRD_ShieldSlave.labelMale>мужчина Раккл живой щит</CRD_ShieldSlave.labelMale>
+  <CRD_ShieldSlave.labelMalePlural>мужчины Ракклы живые щиты</CRD_ShieldSlave.labelMalePlural>
+  <CRD_ShieldSlave.labelFemale>женщина Раккл живой щит</CRD_ShieldSlave.labelFemale>
+  <CRD_ShieldSlave.labelFemalePlural>женщины Ракклы живые щиты</CRD_ShieldSlave.labelFemalePlural>
+
+
+  <!-- Cradle Goods -->
+
+  <CRD_Goods.label>Товар из питомника</CRD_Goods.label>
+  <CRD_Goods.labelPlural>Товары из питомника</CRD_Goods.labelPlural>
+  <CRD_Goods.labelMale>мужчина Товар из питомника</CRD_Goods.labelMale>
+  <CRD_Goods.labelMalePlural>мужчины Товары из питомника</CRD_Goods.labelMalePlural>
+  <CRD_Goods.labelFemale>женщина Товар из питомника</CRD_Goods.labelFemale>
+  <CRD_Goods.labelFemalePlural>женщины Товары из питомника</CRD_Goods.labelFemalePlural>
+
+
+  <!-- Cradle Kidnapper -->
+
+  <CRD_Kidnapper.label>Налетчик из питомника</CRD_Kidnapper.label>
+  <CRD_Kidnapper.labelPlural>Налетчики из питомника</CRD_Kidnapper.labelPlural>
+  <CRD_Kidnapper.labelMale>мужчина Налетчик из питомника</CRD_Kidnapper.labelMale>
+  <CRD_Kidnapper.labelMalePlural>мужчины Налетчики из питомника</CRD_Kidnapper.labelMalePlural>
+  <CRD_Kidnapper.labelFemale>женщина Налетчица из питомника</CRD_Kidnapper.labelFemale>
+  <CRD_Kidnapper.labelFemalePlural>женщины Налетчицы из питомника</CRD_Kidnapper.labelFemalePlural>
+
+
+  <!-- Cradle Gunner Mid Tier -->
+
+  <CRD_Gunner.label>Стрелок из питомника</CRD_Gunner.label>
+  <CRD_Gunner.labelPlural>Стрелоки из питомника</CRD_Gunner.labelPlural>
+  <CRD_Gunner.labelMale>мужчина Стрелок из питомника</CRD_Gunner.labelMale>
+  <CRD_Gunner.labelMalePlural>мужчины Стрелоки из питомника</CRD_Gunner.labelMalePlural>
+  <CRD_Gunner.labelFemale>женщина Стрелок из питомника</CRD_Gunner.labelFemale>
+  <CRD_Gunner.labelFemalePlural>женщины Стрелоки из питомника</CRD_Gunner.labelFemalePlural>
+
+  <CRD_HeavyGunner.label>Тяжелый стрелок из питомника</CRD_HeavyGunner.label>
+  <CRD_HeavyGunner.labelPlural>Тяжелый стрелок из питомника</CRD_HeavyGunner.labelPlural>
+  <CRD_HeavyGunner.labelMale>мужчина Тяжелый стрелок из питомника</CRD_HeavyGunner.labelMale>
+  <CRD_HeavyGunner.labelMalePlural>мужчины Тяжелый стрелок из питомника</CRD_HeavyGunner.labelMalePlural>
+  <CRD_HeavyGunner.labelFemale>женщина Тяжелый стрелок из питомника</CRD_HeavyGunner.labelFemale>
+  <CRD_HeavyGunner.labelFemalePlural>женщины Тяжелый стрелок из питомника</CRD_HeavyGunner.labelFemalePlural>
+
+
+  <!-- Cradle Slasher Mid Tier -->
+
+  <CRD_Slasher.label>Раккл боец</CRD_Slasher.label>
+  <CRD_Slasher.labelPlural>Ракклы бойцы</CRD_Slasher.labelPlural>
+  <CRD_Slasher.labelMale>мужчина Раккл боец</CRD_Slasher.labelMale>
+  <CRD_Slasher.labelMalePlural>мужчины Ракклы бойцы</CRD_Slasher.labelMalePlural>
+  <CRD_Slasher.labelFemale>женщина Раккл боец</CRD_Slasher.labelFemale>
+  <CRD_Slasher.labelFemalePlural>женщины Ракклы бойцы</CRD_Slasher.labelFemalePlural>
+
+
+  <!-- Cradle Sapper Mid Tier -->
+
+  <CRD_Sapper.label>Подрывник из питомника</CRD_Sapper.label>
+  <CRD_Sapper.labelPlural>Подрывники из питомника</CRD_Sapper.labelPlural>
+  <CRD_Sapper.labelMale>мужчина Подрывник из питомника</CRD_Sapper.labelMale>
+  <CRD_Sapper.labelMalePlural>мужчины Подрывники из питомника</CRD_Sapper.labelMalePlural>
+  <CRD_Sapper.labelFemale>женщина Подрывник из питомника</CRD_Sapper.labelFemale>
+  <CRD_Sapper.labelFemalePlural>женщины Подрывники из питомника</CRD_Sapper.labelFemalePlural>
+
+
+  <!-- Cradle Leader High Tier -->
+
+  <CradleLeader.label>Лидер питомника</CradleLeader.label>
+  <CradleLeader.labelPlural>Лидеры питомника</CradleLeader.labelPlural>
+  <CradleLeader.labelMale>мужчина Лидер питомника</CradleLeader.labelMale>
+  <CradleLeader.labelMalePlural>мужчины Лидеры питомника</CradleLeader.labelMalePlural>
+  <CradleLeader.labelFemale>женщина Лидер питомника</CradleLeader.labelFemale>
+  <CradleLeader.labelFemalePlural>женщины Лидеры питомника</CradleLeader.labelFemalePlural>
+
+
+  <!-- Cradle Slasher High Tier -->
+
+  <CRD_EliteSlasher.label>Элитный боец из питомника</CRD_EliteSlasher.label>
+  <CRD_EliteSlasher.labelPlural>Элитные бойцы из питомника</CRD_EliteSlasher.labelPlural>
+  <CRD_EliteSlasher.labelMale>мужчина Элитный боец из питомника</CRD_EliteSlasher.labelMale>
+  <CRD_EliteSlasher.labelMalePlural>мужчины Элитные бойцы из питомника</CRD_EliteSlasher.labelMalePlural>
+  <CRD_EliteSlasher.labelFemale>женщина Элитный боец из питомника</CRD_EliteSlasher.labelFemale>
+  <CRD_EliteSlasher.labelFemalePlural>женщины Элитные бойцы из питомника</CRD_EliteSlasher.labelFemalePlural>
+
+
+  <!-- Cradle Gunner High Tier -->
+
+  <CRD_EliteGunner.label>Элитный стрелок из питомника</CRD_EliteGunner.label>
+  <CRD_EliteGunner.labelPlural>Элитные стрелки из питомника</CRD_EliteGunner.labelPlural>
+  <CRD_EliteGunner.labelMale>мужчина Элитный стрелок из питомника</CRD_EliteGunner.labelMale>
+  <CRD_EliteGunner.labelMalePlural>мужчины Элитные стрелки из питомника</CRD_EliteGunner.labelMalePlural>
+  <CRD_EliteGunner.labelFemale>женщина Элитный стрелок из питомника</CRD_EliteGunner.labelFemale>
+  <CRD_EliteGunner.labelFemalePlural>женщины Элитные стрелки из питомника</CRD_EliteGunner.labelFemalePlural>
+
+
+  <!-- FRU Wanderer Trader -->
+
+  <RS_FRUT.label>Раккл путешественник</RS_FRUT.label>
+  <RS_FRUT.labelPlural>Ракклы путешественники</RS_FRUT.labelPlural>
+  <RS_FRUT.labelMale>мужчина Раккл путешественник</RS_FRUT.labelMale>
+  <RS_FRUT.labelMalePlural>мужчины Ракклы путешественники</RS_FRUT.labelMalePlural>
+  <RS_FRUT.labelFemale>женщина Раккл путешественница</RS_FRUT.labelFemale>
+  <RS_FRUT.labelFemalePlural>женщины Ракклы путешественницы</RS_FRUT.labelFemalePlural>
+
+
+  <!-- FRU Wanderer Guard -->
+
+  <RS_FRUG.label>Раккл путешественник</RS_FRUG.label>
+  <RS_FRUG.labelPlural>Ракклы путешественники</RS_FRUG.labelPlural>
+  <RS_FRUG.labelMale>мужчина Раккл путешественник</RS_FRUG.labelMale>
+  <RS_FRUG.labelMalePlural>мужчины Ракклы путешественники</RS_FRUG.labelMalePlural>
+  <RS_FRUG.labelFemale>женщина Раккл путешественница</RS_FRUG.labelFemale>
+  <RS_FRUG.labelFemalePlural>женщины Ракклы путешественницы</RS_FRUG.labelFemalePlural>
+
+
+  <!-- 플레이어 정착민 -->
+  <!-- 요람 고기방패 -->
+  <!-- 요람 상품 -->
+  <!-- 요람 납치범 -->
+  <!-- 요람 사격수 -->
+  <!-- 요람 돌격병 -->
+  <!-- 요람 공병 -->
+  <!-- 요람 지도자 -->
+  <!-- 요람 정예 돌격병 -->
+  <!-- 요람 정예 소총병 -->
+  <!-- 상단 멤버 -->
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 경단 관련 -->
+
+  <!--<Making_BigSimpleRawMeatBall.label>Приготовить большой мясной шар.</Making_BigSimpleRawMeatBall.label>-->
+  <!--<Making_BigSimpleRawMeatBall.description>Измельчите и перемешайте мясо, что бы его было легко проглотить.</Making_BigSimpleRawMeatBall.description>-->
+  <!--<Making_BigSimpleRawMeatBall.jobString>Приготовление мяса...</Making_BigSimpleRawMeatBall.jobString>-->
+
+  <!--<Making_BigSimpleRawMeatBall_Bulk.label>Приготовить несколько больших мясных шаров.</Making_BigSimpleRawMeatBall_Bulk.label>-->
+  <!--<Making_BigSimpleRawMeatBall_Bulk.description>Измельчите и перемешайте мясо, что бы его было легко проглотить. Приготовьте 4 шара за один раз.</Making_BigSimpleRawMeatBall_Bulk.description>-->
+  <!--<Making_BigSimpleRawMeatBall_Bulk.jobString>Приготовление мяса...</Making_BigSimpleRawMeatBall_Bulk.jobString>-->
+
+  <!--<Making_BigLavishRawMeatBall.label>Приготовить большой и вкусный мясной шар.</Making_BigLavishRawMeatBall.label>-->
+  <!--<Making_BigLavishRawMeatBall.description>Измельчите и перемешайте мясо, предварительно удалив из него все кости и хрящи, что бы его было легко проглотить.</Making_BigLavishRawMeatBall.description>-->
+  <!--<Making_BigLavishRawMeatBall.jobString>Приготовление мяса...</Making_BigLavishRawMeatBall.jobString>-->
+
+  <!--<Making_BigLavishRawMeatBall_Bulk.label>Приготовить несколько больших и вкусных мясных шаров.</Making_BigLavishRawMeatBall_Bulk.label>-->
+  <!--<Making_BigLavishRawMeatBall_Bulk.description>Измельчите и перемешайте мясо, предварительно удалив из него все кости и хрящи, что бы его было легко проглотить. Приготовьте 4 шара за один раз.</Making_BigLavishRawMeatBall_Bulk.description>-->
+  <!--<Making_BigLavishRawMeatBall_Bulk.jobString>Приготовление мяса...</Making_BigLavishRawMeatBall_Bulk.jobString>-->
+
+
+</LanguageData>

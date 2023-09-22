@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 레이클 빤쓰 -->
+
+  <RS_ChestWrap.label>Нагрудная повязка ракклов</RS_ChestWrap.label>
+  <RS_ChestWrap.description>Обычное нижнее белье ракклов. Это унисекс бельё и ракклы мужчины немного стесняются носить подобное.</RS_ChestWrap.description>
+
+  <RS_KnitSweater.label>Вязаный свитер ракклов</RS_KnitSweater.label>
+  <RS_KnitSweater.description>Вязаный свитер ракклов. Это одежда, которую ракклы носят в самые сильные морозы. Большой размер позволяет надеть под него ещё что-нибудь. \n\nОн очень теплый, но почти не защищает.</RS_KnitSweater.description>
+
+
+  <!-- 색상 고정 -->
+
+  <RS_IdolCostume.label>Костюм раккла идола</RS_IdolCostume.label>
+  <RS_IdolCostume.description>Костюм идола. Именно такие костюмы носяты ракклы идолы во время выступления.</RS_IdolCostume.description>
+
+
+  <!-- 레이클 항성계 아이돌 -->
+
+  <RS_StarIdol.label>Костюм раккла межгалактического идола.</RS_StarIdol.label>
+  <RS_StarIdol.description>Костюм межгалактического идола. Костюм самого известного межгалактического идола.\n\nС этим костюмом можно носить только нижнее белье.</RS_StarIdol.description>
+
+  <RS_MaidCostume.label>Костюм раккла горничной</RS_MaidCostume.label>
+  <RS_MaidCostume.description>Костюм горничной. Первоначально эти костюмы носили только товары из питомника, но он понравился многим и его начали шить повсеместно.</RS_MaidCostume.description>
+
+
+</LanguageData>

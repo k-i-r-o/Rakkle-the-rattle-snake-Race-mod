@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RS_InstallWoodenTail.label>Установить деревянный хвост</RS_InstallWoodenTail.label>
+  <RS_InstallWoodenTail.description>Установить деревянный хвост.</RS_InstallWoodenTail.description>
+  <RS_InstallWoodenTail.jobString>Установка деревянного хвоста.</RS_InstallWoodenTail.jobString>
+
+  <RS_RemoveWoodenTail.label>Удалить деревянный хвост</RS_RemoveWoodenTail.label>
+  <RS_RemoveWoodenTail.description>Удалить деревянный хвост.</RS_RemoveWoodenTail.description>
+  <RS_RemoveWoodenTail.jobString>Удаление деревянного хвоста.</RS_RemoveWoodenTail.jobString>
+
+  <RS_InstallBionicTail.label>Установить бионический хвост</RS_InstallBionicTail.label>
+  <RS_InstallBionicTail.description>Установить бионический хвост.</RS_InstallBionicTail.description>
+  <RS_InstallBionicTail.jobString>Установка бионического хвоста.</RS_InstallBionicTail.jobString>
+
+  <RS_RemoveBionicTail.label>Удалить бионический хвост</RS_RemoveBionicTail.label>
+  <RS_RemoveBionicTail.description>Удалить бионический хвост.</RS_RemoveBionicTail.description>
+  <RS_RemoveBionicTail.jobString>Удаление бионического хвоста.</RS_RemoveBionicTail.jobString>
+
+  <RS_InstallBionicBellyscale.label>Установить бионическое чешуйчатое брюшко</RS_InstallBionicBellyscale.label>
+  <RS_InstallBionicBellyscale.description>Установить бионическое чешуйчатое брюшко.</RS_InstallBionicBellyscale.description>
+  <RS_InstallBionicBellyscale.jobString>Установка бионического чешуйчатого брюшка.</RS_InstallBionicBellyscale.jobString>
+
+  <RS_RemoveBionicBellyscale.label>Удалить бионическое чешуйчатое брюшко</RS_RemoveBionicBellyscale.label>
+  <RS_RemoveBionicBellyscale.description>Удалить бионическое чешуйчатое брюшко.</RS_RemoveBionicBellyscale.description>
+  <RS_RemoveBionicBellyscale.jobString>Удаление бионического чешуйчатого брюшка.</RS_RemoveBionicBellyscale.jobString>
+
+  <RS_InstallRakkleThermostat.label>Установить термостат ракклов</RS_InstallRakkleThermostat.label>
+  <RS_InstallRakkleThermostat.description>Установить термостат ракклов.</RS_InstallRakkleThermostat.description>
+  <RS_InstallRakkleThermostat.jobString>Установка термостата ракклов.</RS_InstallRakkleThermostat.jobString>
+
+  <RS_RemoveRakkleThermostat.label>Удалить термостат ракклов</RS_RemoveRakkleThermostat.label>
+  <RS_RemoveRakkleThermostat.description>Удалить термостат ракклов.</RS_RemoveRakkleThermostat.description>
+  <RS_RemoveRakkleThermostat.jobString>Удаление термостата ракклов.</RS_RemoveRakkleThermostat.jobString>
+
+  <RS_InstallObedienceTerminal.label>Установить терминал принудительного послушания ракклов</RS_InstallObedienceTerminal.label>
+  <RS_InstallObedienceTerminal.description>Установить терминал принудительного послушания ракклов.</RS_InstallObedienceTerminal.description>
+  <RS_InstallObedienceTerminal.jobString>Установка терминала принудительного послушания ракклов.</RS_InstallObedienceTerminal.jobString>
+
+  <RS_RemoveObedienceTerminal.label>Удалить терминал принудительного послушания ракклов</RS_RemoveObedienceTerminal.label>
+  <RS_RemoveObedienceTerminal.description>Удалить терминал принудительного послушания ракклов.</RS_RemoveObedienceTerminal.description>
+  <RS_RemoveObedienceTerminal.jobString>Удаление терминала принудительного послушания ракклов.</RS_RemoveObedienceTerminal.jobString>
+
+
+</LanguageData>

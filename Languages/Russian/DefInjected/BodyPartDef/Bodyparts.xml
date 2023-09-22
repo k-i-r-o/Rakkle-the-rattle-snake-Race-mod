@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RS_Fangs.label>клыки</RS_Fangs.label>
+  <RS_VenomGlands.label>ядовитые железы</RS_VenomGlands.label>
+  <RS_UpperTail.label>хвост</RS_UpperTail.label>
+  <RS_LowerTail.label>хвост</RS_LowerTail.label>
+  <RS_Rattle.label>хвост</RS_Rattle.label>
+  <Upper_Tailbone.label>хвост</Upper_Tailbone.label>
+  <Lower_Tailbone.label>хвост</Lower_Tailbone.label>
+  <Lower_BellyScale.label>хвост</Lower_BellyScale.label>
+  <Upper_BellyScale.label>хвост</Upper_BellyScale.label>
+
+
+</LanguageData>

@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Food Poisoning Immunity -->
+
+  <Hediff_FoodpoisoningImmunity.label>Желудок ракклов</Hediff_FoodpoisoningImmunity.label>
+  <Hediff_FoodpoisoningImmunity.description>Иммунитет к пищевому отравлению.</Hediff_FoodpoisoningImmunity.description>
+  <Hediff_FoodpoisoningImmunity.labelNoun>иммунитет_к_пищевому_отравлению</Hediff_FoodpoisoningImmunity.labelNoun>
+
+  <Hediff_VenomGlands.label>Ядовитые железы</Hediff_VenomGlands.label>
+  <Hediff_VenomGlands.description>Ядовитые железы ракклов.</Hediff_VenomGlands.description>
+  <Hediff_VenomGlands.comps.0.tools.0.label>ядовитые клыки</Hediff_VenomGlands.comps.0.tools.0.label>
+  <Hediff_VenomGlands.labelNoun>ядовитые железы</Hediff_VenomGlands.labelNoun>
+
+
+  <!-- Shedding New -->
+
+  <RS_Shed.label>Сброс кожи</RS_Shed.label>
+  <RS_Shed.description>Ракклы переодически сбрасывают кожу во время роста.</RS_Shed.description>
+  <RS_Shed.labelNoun>If you see this text, it's a bug.</RS_Shed.labelNoun>
+
+
+  <!-- Shedding old
+
+  <HediffDef ParentName="DrugToleranceBase">
+    <defName>Hediff_RakkleShedPromoterT</defName>
+    <label>RakkleShedPromoterlabelT</label>
+    <description>PromoterT - If you see this text, it's a bug.</description>
+  </HediffDef>
+
+  <HediffDef ParentName="AddictionBase">
+    <defName>Hediff_RakkleShedPromoterA</defName>
+    <hediffClass>Hediff_Addiction</hediffClass>
+    <label>RakkleShedPromoterlabelA</label>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <description>PromoterA - If you see this text, it's a bug.</description>
+    <isBad>false</isBad>
+    <everCurableByItem>false</everCurableByItem>
+    <stages>
+      <li>
+      </li>
+    </stages>
+  </HediffDef>
+
+  <HediffDef>
+    <defName>Hediff_RakkleShedPromoterM</defName>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>RakkleShedPromoterlabelM</label>
+    <defaultLabelColor>(0.7, 1.0, 0.7)</defaultLabelColor>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <description>PromoterM - If you see this text, it's a bug.</description>
+    <isBad>false</isBad>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <label>end</label>
+        <becomeVisible>false</becomeVisible>
+        <hediffGivers>
+          <li Class="Rakkle.HediffGiver_AlramX">
+            <hediff>RS_Shed</hediff>
+            <mtbDays>0.5</mtbDays>
+          </li>
+        </hediffGivers>
+      </li>
+      <li>
+        <label>start</label>
+        <becomeVisible>false</becomeVisible>
+        <minSeverity>0.9</minSeverity>
+      </li>
+    </stages>
+  </HediffDef>
+
+  <HediffDef>
+    <defName>RS_Shed</defName>
+    <label>Shed</label>
+    <description>Rakkles periodically shed their skin as they grow.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <defaultLabelColor>(0.7, 1.0, 0.7)</defaultLabelColor>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>47</initialSeverity>
+    <maxSeverity>47</maxSeverity>
+    <isBad>false</isBad>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-1</severityPerDay>
+      </li>
+      <li Class="HediffCompProperties_Discoverable">
+        <sendLetterWhenDiscovered>true</sendLetterWhenDiscovered>
+        <discoverLetterLabel>{0} is preparing to shed off {0}'s skin.</discoverLetterLabel>
+        <discoverLetterText>{0}'s skin shedding is not far off!</discoverLetterText>
+        <letterType>PositiveEvent</letterType>
+        <messageType>PositiveEvent</messageType>
+      </li>
+      <li Class="MoharHediffs.HediffCompProperties_Spawner">
+        <thingToSpawn>RS_SnakeSkin</thingToSpawn>
+        <spawnCount>4</spawnCount>
+        <minDaysB4Next>45</minDaysB4Next>
+        <maxDaysB4Next>45.01</maxDaysB4Next>
+        <randomGrace>0</randomGrace>
+        <spawnMaxAdjacent>40</spawnMaxAdjacent>
+        <spawnForbidden>false</spawnForbidden>
+        <spawnVerb>production</spawnVerb>
+      </li>
+      <li Class="MoharHediffs.HediffCompProperties_PostRemoveTrigger_HediffAdd">
+        <triggeredHediff>
+          <li>RS_Shed</li>
+        </triggeredHediff>
+      </li>
+      <li Class="MoharHediffs.HediffCompProperties_HediffNullifier">
+        <hediffToNullify>
+          <li>Hediff_RakkleShedPromoterM</li>
+        </hediffToNullify>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <label>drying</label>
+        <painOffset>0.1</painOffset>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <postFactor>0.8</postFactor>
+          </li>
+          <li>
+            <capacity>Moving</capacity>
+            <postFactor>0.4</postFactor>
+          </li>
+          <li>
+            <capacity>Eating</capacity>
+            <postFactor>0.5</postFactor>
+          </li>
+          <li>
+            <capacity>Talking</capacity>
+            <postFactor>0.8</postFactor>
+          </li>
+          <li>
+            <capacity>Sight</capacity>
+            <postFactor>0.8</postFactor>
+          </li>
+        </capMods>
+      </li>
+      <li>
+        <label>shedding</label>
+        <minSeverity>2</minSeverity>
+        <painOffset>0.2</painOffset>
+        <capMods>
+          <li>
+            <capacity>Consciousness</capacity>
+            <postFactor>0.8</postFactor>
+          </li>
+          <li>
+            <capacity>Moving</capacity>
+            <postFactor>0.3</postFactor>
+          </li>
+          <li>
+            <capacity>Eating</capacity>
+            <postFactor>0.6</postFactor>
+          </li>
+          <li>
+            <capacity>Talking</capacity>
+            <postFactor>0.6</postFactor>
+          </li>
+          <li>
+            <capacity>Sight</capacity>
+            <postFactor>0.7</postFactor>
+          </li>
+        </capMods>
+      </li>
+      <li>
+        <label>last</label>
+        <minSeverity>3</minSeverity>
+        <painOffset>-0.2</painOffset>
+        <capMods>
+          <li>
+            <capacity>Moving</capacity>
+            <postFactor>1.1</postFactor>
+          </li>
+          <li>
+            <capacity>Manipulation</capacity>
+            <postFactor>1.1</postFactor>
+          </li>
+          <li>
+            <capacity>Eating</capacity>
+            <postFactor>0.8</postFactor>
+          </li>
+        </capMods>
+      </li>
+      <li>
+        <label>middle</label>
+        <becomeVisible>false</becomeVisible>
+        <minSeverity>13</minSeverity>
+        <capMods>
+        </capMods>
+      </li>
+      <li>
+        <label>early</label>
+        <becomeVisible>false</becomeVisible>
+        <minSeverity>25</minSeverity>
+        <capMods>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef> -->
+
+  <RS_helminthicHigh.label>Лечебная профилактика</RS_helminthicHigh.label>
+  <RS_helminthicHigh.description>Обработка пищеварительной системы от паразитов</RS_helminthicHigh.description>
+  <RS_helminthicHigh.labelNoun>Лечебная профилактика</RS_helminthicHigh.labelNoun>
+
+  <RS_BionicTail.label>Бионический хвост ракклов</RS_BionicTail.label>
+  <RS_BionicTail.description>Змееподобный бионический хвост для ракклов, немного увеличивает скорость передвижения.</RS_BionicTail.description>
+  <RS_BionicTail.labelNoun>бионический хвост ракклов</RS_BionicTail.labelNoun>
+
+  <RS_BionicBellyscale.label>Бионическое чешуйчатое брюшко ракклов</RS_BionicBellyscale.label>
+  <RS_BionicBellyscale.description>Бионическое брюшко покрытое искусственными чешуйками, неотличимыми от настоящих. Немного увеличивает скорость передвижения.</RS_BionicBellyscale.description>
+  <RS_BionicBellyscale.labelNoun>бионическое чешуйчатое брюшко ракклов</RS_BionicBellyscale.labelNoun>
+
+  <RS_WoodenTail.label>Деревянный змеиный хвост</RS_WoodenTail.label>
+  <RS_WoodenTail.description>Прикрепите взамен отсутствующей части хвоста. Да он громоздкий, но всё же лучше так, чем никак.</RS_WoodenTail.description>
+  <RS_WoodenTail.labelNoun>деревянный змеиный хвост</RS_WoodenTail.labelNoun>
+
+  <RS_Thermostat.label>Термостат ракклов</RS_Thermostat.label>
+  <RS_Thermostat.description>Термостат ракклов. Крепится к телу. Определяет температуру окружающей среды и регулирует температуру тела.</RS_Thermostat.description>
+  <RS_Thermostat.labelNoun>термостат ракклов</RS_Thermostat.labelNoun>
+
+  <RS_ObedienceTerminal.label>Терминал принудительного послушания ракклов</RS_ObedienceTerminal.label>
+  <RS_ObedienceTerminal.description>Терминал принудительного послушания который обычно надевают на рабов из питомника. Он бьет электрическим разрядом раба, если он попытается напасть на своего хозяина. Он так же может ускорить обмен веществ в организме, позволяя пользователю двигаться быстрее, но он не слишком надежен.</RS_ObedienceTerminal.description>
+  <RS_ObedienceTerminal.labelNoun>терминал принудительного послушания ракклов</RS_ObedienceTerminal.labelNoun>
+
+
+  <!-- 식중독 -->
+  <!-- 탈피관련 -->
+  <!--<Hediff_RakkleShedPromoterT.label>RakkleShedPromoterlabelT</Hediff_RakkleShedPromoterT.label>-->
+  <!--<Hediff_RakkleShedPromoterT.description>Вы не должны видеть эту надпись.</Hediff_RakkleShedPromoterT.description>-->
+  <!--<Hediff_RakkleShedPromoterA.label>RakkleShedPromoterlabelA</Hediff_RakkleShedPromoterA.label>-->
+  <!--<Hediff_RakkleShedPromoterA.description>Вы не должны видеть эту надпись.</Hediff_RakkleShedPromoterA.description>-->
+  <!--<Hediff_RakkleShedPromoterM.label>RakkleShedPromoterlabelM</Hediff_RakkleShedPromoterM.label>-->
+  <!--<Hediff_RakkleShedPromoterM.description>Вы не должны видеть эту надпись.</Hediff_RakkleShedPromoterM.description>-->
+  <!--<Hediff_RakkleShedPromoterM.stages.0.label>конец</Hediff_RakkleShedPromoterM.stages.0.label>-->
+  <!--<Hediff_RakkleShedPromoterM.stages.1.label>начало</Hediff_RakkleShedPromoterM.stages.1.label>-->
+  <!--<RS_Shed.comps.1.discoverLetterLabel>{0} готовится сбросить свою кожу</RS_Shed.comps.1.discoverLetterLabel>-->
+  <!--<RS_Shed.comps.1.discoverLetterText>{0} уже скоро!</RS_Shed.comps.1.discoverLetterText>-->
+  <!--<RS_Shed.stages.0.label>кожа высыхает</RS_Shed.stages.0.label>-->
+  <!--<RS_Shed.stages.1.label>кожа сбрасывается</RS_Shed.stages.1.label>-->
+  <!--<RS_Shed.stages.2.label>конец линьки</RS_Shed.stages.2.label>-->
+  <!--<RS_Shed.stages.3.label>середина линьки</RS_Shed.stages.3.label>-->
+  <!--<RS_Shed.stages.4.label>начало линьки</RS_Shed.stages.4.label>-->
+
+</LanguageData>

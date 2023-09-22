@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 유년기 -->
+
+  <!--<Rakkle_ColonyKid.title>Раккл ребенок колонии</Rakkle_ColonyKid.title>-->
+  <!--<Rakkle_ColonyKid.titleShort>Ребенок колонии</Rakkle_ColonyKid.titleShort>-->
+  <!--<Rakkle_ColonyKid.baseDescription>[PAWN_nameDef] - {PAWN_gender ? был : была} вездесущим ребенком, выросшим в поселении свободных Ракклов.</Rakkle_ColonyKid.baseDescription>-->
+
+  <!--<Rakkle_Student.title>Раккл школьник</Rakkle_Student.title>-->
+  <!--<Rakkle_Student.titleShort>Школьник</Rakkle_Student.titleShort>-->
+  <!--<Rakkle_Student.baseDescription>[PAWN_nameDef] раккл, {PAWN_gender ? получивший : получившая} базовое образование в своей местной школе. [PAWN_pronoun] {PAWN_gender ? нашел : нашла} себе друзей во время учебы и {PAWN_gender ? изучил : изучила} основные навыки необходимые для жизни.</Rakkle_Student.baseDescription>-->
+
+  <!--<Rakkle_EmergencyFood.title>Раккл похищенный каннибалами</Rakkle_EmergencyFood.title>-->
+  <!--<Rakkle_EmergencyFood.titleShort>Похищенный</Rakkle_EmergencyFood.titleShort>-->
+  <!--<Rakkle_EmergencyFood.baseDescription>[PAWN_nameDef] - раккл, {PAWN_gender ? которого : которую} в детстве похитили каннибалы. [PAWN_pronoun] всё ещё помнит те дни, когда на [PAWN_possessive] глазах исчезали [PAWN_possessive] друзья. [PAWN_pronoun] тайно {PAWN_gender ? вырыл : вырыла} туннель и сбежал, но ужасы тех событий всё ещё преследуют [PAWN_possessive] во снах.</Rakkle_EmergencyFood.baseDescription>-->
+
+  <!--<Rakkle_GiftedChild.title>Раккл одаренное дитя</Rakkle_GiftedChild.title>-->
+  <!--<Rakkle_GiftedChild.titleShort>Одаренный</Rakkle_GiftedChild.titleShort>-->
+  <!--<Rakkle_GiftedChild.baseDescription>[PAWN_nameDef] {PAWN_gender ? считался : считалась} очень одаренным ребенком и очень хорошо {PAWN_gender ? учился : училась}.</Rakkle_GiftedChild.baseDescription>-->
+
+  <!--<Rakkle_Bully.title>Раккл задира</Rakkle_Bully.title>-->
+  <!--<Rakkle_Bully.titleShort>Задира</Rakkle_Bully.titleShort>-->
+  <!--<Rakkle_Bully.baseDescription>[PAWN_nameDef] {PAWN_gender ? являлся : являлась} лидером группы хулиганов, отбирающих деньги у других детей в переулках.</Rakkle_Bully.baseDescription>-->
+
+  <!--<Rakkle_Subject.title>Раккл подопытный</Rakkle_Subject.title>-->
+  <!--<Rakkle_Subject.titleShort>Подопытный</Rakkle_Subject.titleShort>-->
+  <!--<Rakkle_Subject.baseDescription>[PAWN_nameDef] {PAWN_gender ? рос : росла} в качестве подопытного в лаборатории. [PAWN_pronoun] {PAWN_gender ? подвергался : подвергалась} жестоким экспериментам, и, в конце концов, {PAWN_gender ? перестал : перестала} испытывать любые чувства.</Rakkle_Subject.baseDescription>-->
+
+  <!--<Rakkle_HunterAssistant.title>Раккл помошник охотника</Rakkle_HunterAssistant.title>-->
+  <!--<Rakkle_HunterAssistant.titleShort>Помошник охотника</Rakkle_HunterAssistant.titleShort>-->
+  <!--<Rakkle_HunterAssistant.baseDescription>[PAWN_nameDef] с детства {PAWN_gender ? помогал : помогала} охотникам. Хоть [PAWN_nameDef] ещё совсем {PAWN_gender ? молод : молода}, [PAWN_pronoun] {PAWN_gender ? изучил : изучила} самые разные техники охоты и может охотится в одиночку.</Rakkle_HunterAssistant.baseDescription>-->
+
+  <!--<Rakkle_BookWorm.title>Раккл книжный червь</Rakkle_BookWorm.title>-->
+  <!--<Rakkle_BookWorm.titleShort>Книжный червь</Rakkle_BookWorm.titleShort>-->
+  <!--<Rakkle_BookWorm.baseDescription>[PAWN_nameDef] - просто обожает книги. [PAWN_pronoun] считает окружающий мир слишком грубым местом, но знания полученные из книг во многом {PAWN_gender ? ему : ей} помогают. Кстати [PAWN_pronoun] хочет, чтобы [PAWN_possessive] называли "Книжная змея", а не "Книжный червь".</Rakkle_BookWorm.baseDescription>-->
+
+  <!--<Rakkle_ClothingStoreKid.title>Раккл ребенок портного</Rakkle_ClothingStoreKid.title>-->
+  <!--<Rakkle_ClothingStoreKid.titleShort>Помошник портного</Rakkle_ClothingStoreKid.titleShort>-->
+  <!--<Rakkle_ClothingStoreKid.baseDescription>[PAWN_nameDef] {PAWN_gender ? рос : росла} в семье портных. [PAWN_pronoun] многое {PAWN_gender ? узнал : узнала}, наблюдая за работой своих родителей.</Rakkle_ClothingStoreKid.baseDescription>-->
+
+  <!--<Rakkle_ConstructionWorker.title>Раккл ребенок разнорабочий</Rakkle_ConstructionWorker.title>-->
+  <!--<Rakkle_ConstructionWorker.titleShort>Разнорабочий</Rakkle_ConstructionWorker.titleShort>-->
+  <!--<Rakkle_ConstructionWorker.baseDescription>[PAWN_nameDef] - юнный раккл, {PAWN_gender ? помогающий : помогающая} в работе на стройке. Обычно дети не занимаются такой тяжелой работой, но у {PAWN_gender ? него : неё} видимо была причина.</Rakkle_ConstructionWorker.baseDescription>-->
+
+  <!--<Rakkle_Orphan.title>Раккл сирота</Rakkle_Orphan.title>-->
+  <!--<Rakkle_Orphan.titleShort>Сирота</Rakkle_Orphan.titleShort>-->
+  <!--<Rakkle_Orphan.baseDescription>[PAWN_nameDef] - раккл сирота, {PAWN_gender ? живущий : живущая} в руинах за пределами поселения. [PAWN_pronoun] даже не знает, почему родители бросили [PAWN_possessive]. Но сейчас {PAWN_gender ? ему : ей} некогда размышлять об этом, сейчас самое главное - выжить.</Rakkle_Orphan.baseDescription>-->
+
+  <!--<Rakkle_ImmatureChild.title>Раккл незрелый ребенок</Rakkle_ImmatureChild.title>-->
+  <!--<Rakkle_ImmatureChild.titleShort>Незрелый ребенок</Rakkle_ImmatureChild.titleShort>-->
+  <!--<Rakkle_ImmatureChild.baseDescription>[PAWN_nameDef]- незрелый ребенок.</Rakkle_ImmatureChild.baseDescription>-->
+
+  <!--<Rakkle_PrecociousChild.title>Раккл не по годам развитый ребенок</Rakkle_PrecociousChild.title>-->
+  <!--<Rakkle_PrecociousChild.titleShort>Не по годам развитый ребенок</Rakkle_PrecociousChild.titleShort>-->
+  <!--<Rakkle_PrecociousChild.baseDescription>Другие ракклы всегда говорили, что [PAWN_nameDef] не по годам {PAWN_gender ? взрослый : взрослая}. Повзрослев [PAWN_pronoun] надеется, что сможет внести свой вклад  в развитие своего родного поселения.</Rakkle_PrecociousChild.baseDescription>-->
+
+  <!--<Rakkle_CuriousChild.title>Раккл любопытный ребенок</Rakkle_CuriousChild.title>-->
+  <!--<Rakkle_CuriousChild.titleShort>Любопытный ребенок</Rakkle_CuriousChild.titleShort>-->
+  <!--<Rakkle_CuriousChild.baseDescription>[PAWN_nameDef] - {PAWN_gender ? был : была} очень любопытным ребенком. Конечно временами из-за {PAWN_gender ? него : неё} появлялись проблемы, но во многих случаях [PAWN_possessive] любопытство шло на пользу поселению.</Rakkle_CuriousChild.baseDescription>-->
+
+  <!--<Rakkle_WildSnake.title>Раккл дикий змееныш</Rakkle_WildSnake.title>-->
+  <!--<Rakkle_WildSnake.titleShort>Дикий змееныш</Rakkle_WildSnake.titleShort>-->
+  <!--<Rakkle_WildSnake.baseDescription>[PAWN_nameDef] - раккл, в одиночестве {PAWN_gender ? выросший : выросшая} в дикой природе. Хоть [PAWN_possessive] и обнаружили жители поселения, но [PAWN_pronoun] всё-равно считает, что жизнь в дикой природе была лучше. </Rakkle_WildSnake.baseDescription>-->
+
+  <!--<Rakkle_SandboxGreat.title>Раккл строитель из песка</Rakkle_SandboxGreat.title>-->
+  <!--<Rakkle_SandboxGreat.titleShort>Строитель из песка</Rakkle_SandboxGreat.titleShort>-->
+  <!--<Rakkle_SandboxGreat.baseDescription>[PAWN_nameDef] {PAWN_gender ? лучший : лучшая} {PAWN_gender ? строитель : строительница} песчаных замков в окрестных поселениях. Никому ещё не удавалось сделать замок из песка лучше, чем у {PAWN_gender ? него : неё}.</Rakkle_SandboxGreat.baseDescription>-->
+
+  <!--<Rakkle_PeePoo.title>Раккл ребенок</Rakkle_PeePoo.title>-->
+  <!--<Rakkle_PeePoo.titleShort>Ребенок</Rakkle_PeePoo.titleShort>-->
+  <!--<Rakkle_PeePoo.baseDescription>[PAWN_nameDef] {PAWN_gender ? был : была} ребенком с странным телом. {PAWN_gender ? Ему : Ей} постоянно приходилось извиняться за мокрую кровать с утра, и никогда не хотелось с утра в туалет....</Rakkle_PeePoo.baseDescription>-->
+
+  <!--<Rakkle_AbandonedYoungSlave.title>Раккл раб в человеческом поселении</Rakkle_AbandonedYoungSlave.title>-->
+  <!--<Rakkle_AbandonedYoungSlave.titleShort>Раб</Rakkle_AbandonedYoungSlave.titleShort>-->
+  <!--<Rakkle_AbandonedYoungSlave.baseDescription>[PAWN_nameDef] {PAWN_gender ? родился : родилась} и {PAWN_gender ? вырос : выросла} в поселении людей. Хотя это поселение и не держало рабов, [PAWN_pronoun] {PAWN_gender ? был : была} единственным представителем своего вида в поселении, и поэтому [PAWN_possessive] задирали другие дети, фактически сделав из {PAWN_gender ? него : неё} своего личного раба.</Rakkle_AbandonedYoungSlave.baseDescription>-->
+
+  <!--<Rakkle_IdolTrainee.title>Раккл начинающий идол</Rakkle_IdolTrainee.title>-->
+  <!--<Rakkle_IdolTrainee.titleShort>Начинающий идол</Rakkle_IdolTrainee.titleShort>-->
+  <!--<Rakkle_IdolTrainee.baseDescription>[PAWN_nameDef] всегда {PAWN_gender ? хотел : хотела} стать идолом. Истории которые расказывали [PAWN_possessive] родители про межгалактических идолов, очень сильно [PAWN_possessive] увлекли и [PAWN_pronoun] {PAWN_gender ? решил : решила} посвятить свою жизнь становлению {PAWN_gender ? одним : одной} из них.</Rakkle_IdolTrainee.baseDescription>-->
+
+  <!--<Rakkle_LittleGlutton.title>Раккл маленький обжора</Rakkle_LittleGlutton.title>-->
+  <!--<Rakkle_LittleGlutton.titleShort>Маленький обжора</Rakkle_LittleGlutton.titleShort>-->
+  <!--<Rakkle_LittleGlutton.baseDescription>[PAWN_nameDef] очень любит вкусное мясо. [PAWN_pronoun] {PAWN_gender ? изучал : изучала} кулинарию, чтобы научиться делать мясо ещё вкуснее. И да, [PAWN_pronoun] любит именно сырое мясо. </Rakkle_LittleGlutton.baseDescription>-->
+
+  <!--<Rakkle_PlantLover.title>Rakkle Plant lover</Rakkle_PlantLover.title>-->
+  <!--<Rakkle_PlantLover.titleShort>Plant lover</Rakkle_PlantLover.titleShort>-->
+  <!--<Rakkle_PlantLover.baseDescription>Другие считали [PAWN_nameDef] немного глуповатым ракклом. Ракклы - плотоядные, они не едят растительную пищу. Однако [PAWN_nameDef] очень {PAWN_gender ? интересовался : интересовалась} растениями и зерновыми культурами, которые предпочитают люди.</Rakkle_PlantLover.baseDescription>-->
+
+
+  <!-- 요람 어린 상품 -->
+
+  <!--<CRD_YoungGoods.title>Растущий на продажу раб</CRD_YoungGoods.title>-->
+  <!--<CRD_YoungGoods.titleShort>Раб</CRD_YoungGoods.titleShort>-->
+  <!--<CRD_YoungGoods.baseDescription>[PAWN_nameDef] {PAWN_gender ? один : одна} из ракклов, растущих в питомнике для рабов. [PAWN_pronoun] ещё совсем {PAWN_gender ? юн : юна}, но [PAWN_pronoun] старается быть максимально полезным.</CRD_YoungGoods.baseDescription>-->
+
+  <!--<CRD_CradleLeaderChild.title>Ребенок руководителей питомника</CRD_CradleLeaderChild.title>-->
+  <!--<CRD_CradleLeaderChild.titleShort>Ребенок руководителей</CRD_CradleLeaderChild.titleShort>-->
+  <!--<CRD_CradleLeaderChild.baseDescription>[PAWN_nameDef] ребенок руководителей питомника выращивающего ракклов на продажу. [PAWN_pronoun] растет не как {PAWN_gender ? один : одна} из рабов, а как {PAWN_gender ? будущий : будущая} {PAWN_gender ? руководитель : руководительница} питомника.</CRD_CradleLeaderChild.baseDescription>-->
+
+
+  <!-- 플레이어 -->
+
+  <!--<Rakkle_Blacksmith.title>Раккл кузнец</Rakkle_Blacksmith.title>-->
+  <!--<Rakkle_Blacksmith.titleShort>Кузнец</Rakkle_Blacksmith.titleShort>-->
+  <!--<Rakkle_Blacksmith.baseDescription>[PAWN_nameDef] - кузнец. Ракклы дружелюбны к другим расам, но для того, чтобы выжить в Окраинных Мирах, им также нужно создавать оружие.</Rakkle_Blacksmith.baseDescription>-->
+
+  <!--<Rakkle_Butcher.title>Раккл мясник</Rakkle_Butcher.title>-->
+  <!--<Rakkle_Butcher.titleShort>Мясник</Rakkle_Butcher.titleShort>-->
+  <!--<Rakkle_Butcher.baseDescription>[PAWN_nameDef] - работает мясником в поселении. Готовка мало что значит для ракклов, но работа мясника - одна из самых важных для них.</Rakkle_Butcher.baseDescription>-->
+
+  <!--<Rakkle_Seamstress.title>Раккл портной</Rakkle_Seamstress.title>-->
+  <!--<Rakkle_Seamstress.titleShort>Портной</Rakkle_Seamstress.titleShort>-->
+  <!--<Rakkle_Seamstress.baseDescription>[PAWN_nameDef] - владеет магазином одежды. Одежда которую [PAWN_pronoun] {PAWN_gender ? шил : шила} была очень популярна в [PAWN_possessive] поселении.</Rakkle_Seamstress.baseDescription>-->
+
+  <!--<Rakkle_Rancher.title>Раккл животновод</Rakkle_Rancher.title>-->
+  <!--<Rakkle_Rancher.titleShort>Животновод</Rakkle_Rancher.titleShort>-->
+  <!--<Rakkle_Rancher.baseDescription>[PAWN_nameDef] - раккл, {PAWN_gender ? который : которая} {PAWN_gender ? разводил : разводила} животных на большой ферме. Так как ракклы хищники, разведение домашнего скота - очень уважаемая работа.</Rakkle_Rancher.baseDescription>-->
+
+  <!--<Rakkle_Guard.title>Раккл страж</Rakkle_Guard.title>-->
+  <!--<Rakkle_Guard.titleShort>Страж</Rakkle_Guard.titleShort>-->
+  <!--<Rakkle_Guard.baseDescription>[PAWN_nameDef] - раккл, {PAWN_gender ? охраняющий : охраняющая} поселение. [PAWN_pronoun] делает все, что в [PAWN_possessive] силах, чтобы защитить жителей своего родного поселения.</Rakkle_Guard.baseDescription>-->
+
+  <!--<Rakkle_Hunter.title>Раккл охотник</Rakkle_Hunter.title>-->
+  <!--<Rakkle_Hunter.titleShort>Охотник</Rakkle_Hunter.titleShort>-->
+  <!--<Rakkle_Hunter.baseDescription>[PAWN_nameDef] - {PAWN_gender ? охотник : охотница}, {PAWN_gender ? занимающийся : занимающаяся} добычей мяса для поселения. Быть охотником - очень важная и уважаемая работа среди ракклов, так как они не могут есть растительную пищу.</Rakkle_Hunter.baseDescription>-->
+
+  <!--<Rakkle_Architect.title>Раккл архитектор</Rakkle_Architect.title>-->
+  <!--<Rakkle_Architect.titleShort>Архитектор</Rakkle_Architect.titleShort>-->
+  <!--<Rakkle_Architect.baseDescription>[PAWN_nameDef] - раккл, {PAWN_gender ? который : которая} занимается строительными работами в [PAWN_possessive] поселении. {PAWN_gender ? Он : Она} всегда обдумывает, как построить более крепкую оборону, для защиты от налетчиков.</Rakkle_Architect.baseDescription>-->
+
+  <!--<Rakkle_Avenger.title>Раккл мститель</Rakkle_Avenger.title>-->
+  <!--<Rakkle_Avenger.titleShort>Мститель</Rakkle_Avenger.titleShort>-->
+  <!--<Rakkle_Avenger.baseDescription>[PAWN_nameDef] - раккл, {PAWN_gender ? потерявший : потерявшая} всю свою семью во время налета работорговцев из Питомника. [PAWN_pronoun] проводит всё своё свободное время за тренировками, в надежде когда-нибудь отомстить им.</Rakkle_Avenger.baseDescription>-->
+
+  <!--<Rakkle_CannibalSnake.title>Раккл каннибал</Rakkle_CannibalSnake.title>-->
+  <!--<Rakkle_CannibalSnake.titleShort>Каннибал</Rakkle_CannibalSnake.titleShort>-->
+  <!--<Rakkle_CannibalSnake.baseDescription>Ракклы обычно дружелюбны и не едят подобных себе, но всегда бывают исключения... [PAWN_nameDef] {PAWN_gender ? был : была} членом небольшой группы ракклов каннибалов. И никто из них уже не может забыть столь приятный вкус змеиной плоти...</Rakkle_CannibalSnake.baseDescription>-->
+
+  <!--<Rakkle_Farmer.title>Раккл фермер</Rakkle_Farmer.title>-->
+  <!--<Rakkle_Farmer.titleShort>Фермер</Rakkle_Farmer.titleShort>-->
+  <!--<Rakkle_Farmer.baseDescription>В прошлом ракклы никогда не выращивали растения. Но теперь они создали множество различных фермерских угодий, на которых выращивают различные овощи и травы для обмена с другими народами. [PAWN_nameDef] - больше чем другие ракклы любит возиться с растениями. Хотя [PAWN_pronoun] всё ещё не слишком хорош в этом.</Rakkle_Farmer.baseDescription>-->
+
+  <!--<Rakkle_Diplomat.title>Раккл дипломат</Rakkle_Diplomat.title>-->
+  <!--<Rakkle_Diplomat.titleShort>Дипломат</Rakkle_Diplomat.titleShort>-->
+  <!--<Rakkle_Diplomat.baseDescription>[PAWN_nameDef] отвечает за посещение и взаимодействие с дружественными поселениями вокруг. Так как ракклы начали активно взаимодействовать с другими расами, им приходится воспитывать всё больше дипломатов.</Rakkle_Diplomat.baseDescription>-->
+
+  <!--<Rakkle_Lazy.title>Ленивый раккл</Rakkle_Lazy.title>-->
+  <!--<Rakkle_Lazy.titleShort>Ленивый</Rakkle_Lazy.titleShort>-->
+  <!--<Rakkle_Lazy.baseDescription>[PAWN_nameDef] - невероятно {PAWN_gender ? ленив : ленива}. [PAWN_pronoun] больше всего на свете ненавидит работать.</Rakkle_Lazy.baseDescription>-->
+
+  <!--<Rakkle_Idol.title>Раккл Идол</Rakkle_Idol.title>-->
+  <!--<Rakkle_Idol.titleShort>Идол</Rakkle_Idol.titleShort>-->
+  <!--<Rakkle_Idol.baseDescription>[PAWN_nameDef] - известный идол на этой планете. В Окраинных Мирах спрос на идолов не слишком высок, но всё же, у {PAWN_gender ? него : неё} есть фанаты , которым [PAWN_pronoun] нравится, и ради них [PAWN_pronoun] старается изо всех сил. [PAWN_pronoun] мечтает когда-нибудь стать самым известным идолом в этом суматошном мире.</Rakkle_Idol.baseDescription>-->
+
+  <!--<Rakkle_Model.title>Раккл модель</Rakkle_Model.title>-->
+  <!--<Rakkle_Model.titleShort>Модель</Rakkle_Model.titleShort>-->
+  <!--<Rakkle_Model.baseDescription>[PAWN_nameDef] - раккл с красивой внешностью, {PAWN_gender ? работающий : работающая} моделью.</Rakkle_Model.baseDescription>-->
+
+  <!--<Rakkle_Teacher.title>Раккл учитель</Rakkle_Teacher.title>-->
+  <!--<Rakkle_Teacher.titleShort>Учитель</Rakkle_Teacher.titleShort>-->
+  <!--<Rakkle_Teacher.baseDescription>[PAWN_nameDef] - {PAWN_gender ? учитель : учительница}, воспитывающая детей в поселении. {PAWN_gender ? Он : Она} имеет мягкий характер и ученики очень [PAWN_possessive] любят.</Rakkle_Teacher.baseDescription>-->
+
+  <!--<Rakkle_Professor.title>Раккл профессор</Rakkle_Professor.title>-->
+  <!--<Rakkle_Professor.titleShort>Профессор</Rakkle_Professor.titleShort>-->
+  <!--<Rakkle_Professor.baseDescription>[PAWN_nameDef] - профессор, {PAWN_gender ? ведущий : ведущая} исследования в поселении. {PAWN_gender ? Он : Она} также обучает других ракклов, но говорит что {PAWN_gender ? ему : ей} удобнее проводить исследования самостоятельно.</Rakkle_Professor.baseDescription>-->
+
+  <!--<Rakkle_Miner.title>Раккл шахтер</Rakkle_Miner.title>-->
+  <!--<Rakkle_Miner.titleShort>Шахтер</Rakkle_Miner.titleShort>-->
+  <!--<Rakkle_Miner.baseDescription>[PAWN_nameDef] - шахтер. Говорят, что древние ракклы, инстинктивно копали себе норы в земле, в которых и жили. Другие ракклы считают, что [PAWN_pronoun] {PAWN_gender ? сохранил : сохранила} в себе этот инстинкт.</Rakkle_Miner.baseDescription>-->
+
+  <!--<Rakkle_Merchant.title>Раккл торговец</Rakkle_Merchant.title>-->
+  <!--<Rakkle_Merchant.titleShort>Торговец</Rakkle_Merchant.titleShort>-->
+  <!--<Rakkle_Merchant.baseDescription>[PAWN_nameDef] {PAWN_gender ? прирожденный : прирожденная} {PAWN_gender ? торговец : торговка}. [PAWN_pronoun] думает о том как продать подороже и купить подешевле даже во сне.</Rakkle_Merchant.baseDescription>-->
+
+  <!--<Rakkle_Gunner.title>Раккл стрелок</Rakkle_Gunner.title>-->
+  <!--<Rakkle_Gunner.titleShort>Стрелок</Rakkle_Gunner.titleShort>-->
+  <!--<Rakkle_Gunner.baseDescription>[PAWN_nameDef] талантливый стрелок. [PAWN_pronoun] говорит, что просто всё детство {PAWN_gender ? играл : играла} с рогаткой.</Rakkle_Gunner.baseDescription>-->
+
+  <!--<Rakkle_Storyteller.title>Раккл рассказчик</Rakkle_Storyteller.title>-->
+  <!--<Rakkle_Storyteller.titleShort>Рассказчик</Rakkle_Storyteller.titleShort>-->
+  <!--<Rakkle_Storyteller.baseDescription>[PAWN_nameDef] - раккл, {PAWN_gender ? который : которая} {PAWN_gender ? рассказывал : рассказывала} забавные истории для детей. Так как в [PAWN_possessive] поселении не было телевизоров, то [PAWN_pronoun] {PAWN_gender ? пользовался : пользовалась} большой популярностью.</Rakkle_Storyteller.baseDescription>-->
+
+  <!--<Rakkle_Fool.title>Глупый раккл</Rakkle_Fool.title>-->
+  <!--<Rakkle_Fool.titleShort>Глупец</Rakkle_Fool.titleShort>-->
+  <!--<Rakkle_Fool.baseDescription>[PAWN_nameDef] глупый раккл. [PAWN_pronoun] живет своей жизнью совершенно ни о чем не думая.</Rakkle_Fool.baseDescription>-->
+
+  <!--<Rakkle_Doctor.title>Раккл доктор</Rakkle_Doctor.title>-->
+  <!--<Rakkle_Doctor.titleShort>Доктор</Rakkle_Doctor.titleShort>-->
+  <!--<Rakkle_Doctor.baseDescription>[PAWN_nameDef] врач в [PAWN_possessive] поселении. [PAWN_pronoun] {PAWN_gender ? решил : решила} стать врачом, увидев сколько было жертв, которым никто не мог помочь, после налета. Теперь очень многие в поселении зависят от {PAWN_gender ? него : неё}.</Rakkle_Doctor.baseDescription>-->
+
+  <!--<Rakkle_OrphanageDirector.title>Раккл директор приюта</Rakkle_OrphanageDirector.title>-->
+  <!--<Rakkle_OrphanageDirector.titleShort>Директор приюта</Rakkle_OrphanageDirector.titleShort>-->
+  <!--<Rakkle_OrphanageDirector.baseDescription>[PAWN_nameDef] - директор приюта, {PAWN_gender ? который : которая} заботится о детях оставшихся без родителей. [PAWN_pronoun] очень надеется, что дети никогда больше не будут страдать.</Rakkle_OrphanageDirector.baseDescription>-->
+
+  <!--<Rakkle_Artist.title>Раккл художник</Rakkle_Artist.title>-->
+  <!--<Rakkle_Artist.titleShort>Художник</Rakkle_Artist.titleShort>-->
+  <!--<Rakkle_Artist.baseDescription>[PAWN_nameDef] {PAWN_gender ? талантливый : талантливая} {PAWN_gender ? художник : художница}. Видеть то, как другие поселенцы восхищаются [PAWN_possessive] работами было лучшей наградой для {PAWN_gender ? него : неё}.</Rakkle_Artist.baseDescription>-->
+
+  <!--<Rakkle_EscapedGoods.title>Раккл сбежавший из питомника</Rakkle_EscapedGoods.title>-->
+  <!--<Rakkle_EscapedGoods.titleShort>Сбежавший</Rakkle_EscapedGoods.titleShort>-->
+  <!--<Rakkle_EscapedGoods.baseDescription>[PAWN_nameDef] - {PAWN_gender ? один : одна} из {PAWN_gender ? рабов : рабынь}, выросших в питомнике. {PAWN_gender ? Он : Она} не единожды {PAWN_gender ? видел : видела} что происходило с [PAWN_possessive] друзьями после их продажи, эти ужасы обратили [PAWN_possessive] сердце в осколок льда. В день когда [PAWN_possessive] собирались продать, на [PAWN_possessive] питомник упал кластер механоидов, воспользовавшись возникшим хаосом [PAWN_pronoun] {PAWN_gender ? сбежал : сбежала}.</Rakkle_EscapedGoods.baseDescription>-->
+
+
+  <!-- 요람 성년기 -->
+
+  <!--<CDR_Toy.title>Игрушка из питомника</CDR_Toy.title>-->
+  <!--<CDR_Toy.titleShort>Игрушка</CDR_Toy.titleShort>-->
+  <!--<CDR_Toy.baseDescription>[PAWN_nameDef] раккл, {PAWN_gender ? выращенный : выращенная} в питомнике в качестве будущей игрушки. {PAWN_gender ? Его : Её} обучали различным вещам, что бы [PAWN_pronoun] {PAWN_gender ? развлекал : развлекала} своих будущих хозяев.</CDR_Toy.baseDescription>-->
+
+  <!--<CDR_Maid.title>Служанка из питомника</CDR_Maid.title>-->
+  <!--<CDR_Maid.titleShort>Служанка</CDR_Maid.titleShort>-->
+  <!--<CDR_Maid.baseDescription>[PAWN_nameDef] раккл, {PAWN_gender ? выращенный : выращенная} в питомнике, [PAWN_possessive] обучали выполнять различные домашние дела для будущих хозяев.</CDR_Maid.baseDescription>-->
+
+  <!--<CDR_Livestock.title>Домашнее животное из питомника</CDR_Livestock.title>-->
+  <!--<CDR_Livestock.titleShort>Домашнее животное</CDR_Livestock.titleShort>-->
+  <!--<CDR_Livestock.baseDescription>[PAWN_nameDef] раккл, {PAWN_gender ? выращенный : выращенная} в питомнике, в качестве домашнего животного для [PAWN_possessive] будущих хозяев. [PAWN_pronoun] не знает что [PAWN_possessive] ждет, перепродадут ли [PAWN_possessive], или пустят на мясо.</CDR_Livestock.baseDescription>-->
+
+  <!--<CDR_Workman.title>Рабочий из питомника</CDR_Workman.title>-->
+  <!--<CDR_Workman.titleShort>Рабочий</CDR_Workman.titleShort>-->
+  <!--<CDR_Workman.baseDescription>[PAWN_nameDef] раккл, {PAWN_gender ? выращенный : выращенная} в питомнике. [PAWN_pronoun] {PAWN_gender ? должен : должна} {PAWN_gender ? был : была} выполнять самые разные работы.</CDR_Workman.baseDescription>-->
+
+  <!--<CDR_Slave.title>Раб из питомника</CDR_Slave.title>-->
+  <!--<CDR_Slave.titleShort>Раб</CDR_Slave.titleShort>-->
+  <!--<CDR_Slave.baseDescription>[PAWN_nameDef] - раккл, {PAWN_gender ? выращенный : выращенная} в питомнике. [PAWN_pronoun] не так {PAWN_gender ? хорош : хороша} как другие рабы, поэтому, вместо продажи, [PAWN_possessive] использовали как рабочую силу в самом питомнике.</CDR_Slave.baseDescription>-->
+
+  <!--<CDR_FightingSnake.title>Бойцовский змей из питомника</CDR_FightingSnake.title>-->
+  <!--<CDR_FightingSnake.titleShort>Боец</CDR_FightingSnake.titleShort>-->
+  <!--<CDR_FightingSnake.baseDescription>[PAWN_nameDef] раккл, {PAWN_gender ? которого : которую} растили в питомнике как бойцовскую змею, для участия в боях на арене, на потеху публике. [PAWN_pronoun] очень хорошо себя там {PAWN_gender ? показывал : показывала}, ни разу не проиграв. Хотя ракклы и не слишком агрессивны, бойцовские змеи с детства приучены применять силу.</CDR_FightingSnake.baseDescription>-->
+
+  <!--<CDR_Breeder.title>Особый товар из питомника</CDR_Breeder.title>-->
+  <!--<CDR_Breeder.titleShort>Особый товар</CDR_Breeder.titleShort>-->
+  <!--<CDR_Breeder.baseDescription>[PAWN_nameDef] раккл, вырощенная в питомнике для рождения других ракклов. Она является товаром премиум-класса и продается только особым клиентам. [PAWN_nameDef] только и будет делать, что рожать маленьких ракклов для своих новых хозяев, до самой смерти.</CDR_Breeder.baseDescription>-->
+
+  <!--<CDR_serf.title>Фермер из питомника</CDR_serf.title>-->
+  <!--<CDR_serf.titleShort>Фермер</CDR_serf.titleShort>-->
+  <!--<CDR_serf.baseDescription>[PAWN_nameDef] раккл, {PAWN_gender ? выращенный : выращенная} в питомнике и {PAWN_gender ? обученный : обученная} работе в полях. Ракклы - плотоядные существа и обычно не занимающиеся садоводством, но [PAWN_nameDef] будет усердно работать на своего хозяина.</CDR_serf.baseDescription>-->
+
+  <!--<CDR_Attacker.title>Налетчик питомника</CDR_Attacker.title>-->
+  <!--<CDR_Attacker.titleShort>Налетчик</CDR_Attacker.titleShort>-->
+  <!--<CDR_Attacker.baseDescription>[PAWN_nameDef] следил за товаром в питомнике. Однажды лидер питомника разглядел [PAWN_possessive] боевые навыки и повысил [PAWN_possessive] до налетчика.</CDR_Attacker.baseDescription>-->
+
+  <!--<CDR_Elite.title>Элитный налетчик питомника</CDR_Elite.title>-->
+  <!--<CDR_Elite.titleShort>Элитный налетчик</CDR_Elite.titleShort>-->
+  <!--<CDR_Elite.baseDescription>[PAWN_nameDef] - элитный боец, с рождения {PAWN_gender ? обучавшийся : обучавшаяся} бою. {PAWN_gender ? Он : Она} уничтожит любого врага питомника.</CDR_Elite.baseDescription>-->
+
+  <!--<CDR_Captured.title>Живой щит питомника</CDR_Captured.title>-->
+  <!--<CDR_Captured.titleShort>Живой щит</CDR_Captured.titleShort>-->
+  <!--<CDR_Captured.baseDescription>[PAWN_nameDef] {PAWN_gender ? был : была} {PAWN_gender ? захвачен : захвачена} во время налета рейдеров из питомника. В то время когда другие ракклы сопротивлялись и были захвачены в рабство, [PAWN_nameDef] {PAWN_gender ? сдался : сдалась} без сопротивления, умоляя принять [PAWN_possessive] в свои ряды. Теперь [PAWN_nameDef], не кто {PAWN_gender ? иной : иная} как живой щит для бойцов питомника. </CDR_Captured.baseDescription>-->
+
+  <!--<CDR_Leader.title>Лидер питомника</CDR_Leader.title>-->
+  <!--<CDR_Leader.titleShort>Лидер</CDR_Leader.titleShort>-->
+  <!--<CDR_Leader.baseDescription>[PAWN_nameDef] - лидер питомника. [PAWN_pronoun] {PAWN_gender ? получил : получила} лучшее образование и все нужные навыки для управления питомником. {PAWN_gender ? Его : Её} дети также будут лидерами питомника и живут в комфорте.</CDR_Leader.baseDescription>-->
+
+
+</LanguageData>

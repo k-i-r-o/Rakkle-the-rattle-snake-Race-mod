@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<AteSimpleMeal.stages.0.label>Съедено простое блюдо</AteSimpleMeal.stages.0.label>-->
+  <!--<AteSimpleMeal.stages.0.description>Это был легкий перекус.</AteSimpleMeal.stages.0.description>-->
+
+  <!--<RS_AteSimpleMeal.stages.0.label>Съдено простое блюдо</RS_AteSimpleMeal.stages.0.label>-->
+  <!--<RS_AteSimpleMeal.stages.0.description>В нем.. В нем ведь нет овощей..?</RS_AteSimpleMeal.stages.0.description>-->
+
+  <!--<RS_AteFineMeal.stages.0.label>Съедено хорошее блюдо</RS_AteFineMeal.stages.0.label>-->
+  <!--<RS_AteFineMeal.stages.0.description>Хорошее блюдо..? Фу..! Это же овощи!</RS_AteFineMeal.stages.0.description>-->
+
+  <!--<RS_AteLavishMeal.stages.0.label>Съедено вкусное блюдо</RS_AteLavishMeal.stages.0.label>-->
+  <!--<RS_AteLavishMeal.stages.0.description>Роскошно..Но.. Кажется.. Меня тошнит..</RS_AteLavishMeal.stages.0.description>-->
+
+  <!--<RS_AteSimpleRawFood.stages.0.label>Съедено сырое мясо</RS_AteSimpleRawFood.stages.0.label>-->
+  <!--<RS_AteSimpleRawFood.stages.0.description>МЯСО!</RS_AteSimpleRawFood.stages.0.description>-->
+
+  <!--<RS_AteLavishRawFood.stages.0.label>Съедено вкусное сырое мясо</RS_AteLavishRawFood.stages.0.label>-->
+  <!--<RS_AteLavishRawFood.stages.0.description>МЯСО!МЯСО!МЯСО!МЯСО!</RS_AteLavishRawFood.stages.0.description>-->
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rakkle.label>Раккл</Rakkle.label>
+  <Rakkle.description>Раккл - искусственно выведенная раса, созданная людьми из рептилий найденных на одной из планет Окраинный Миров.</Rakkle.description>
+  <Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>кожа</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+  <Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>волосы</Rakkle.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+  <Rakkle.tools.0.label>левый кулак</Rakkle.tools.0.label>
+  <Rakkle.tools.1.label>правый кулак</Rakkle.tools.1.label>
+  <Rakkle.tools.2.label>клыки</Rakkle.tools.2.label>
+  <Rakkle.tools.3.label>змееподобный хвост</Rakkle.tools.3.label>
+
+
+</LanguageData>

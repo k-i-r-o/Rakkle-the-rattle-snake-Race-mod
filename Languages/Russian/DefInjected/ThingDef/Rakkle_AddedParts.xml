@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RS_WoodenTail.label>prosthetic wooden tail</RS_WoodenTail.label>
+  <RS_WoodenTail.description>A Rakkle tail prosthesis. While it lacks a neural interface, its complex arrangement of joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real tail.</RS_WoodenTail.description>
+
+  <RS_BionicTail.label>Бионический хвост ракклов</RS_BionicTail.label>
+  <RS_BionicTail.description>Бионический хвост, соединяющий позвоночник и нервы. Это протез, но двигается он даже лучше чем настоящий.</RS_BionicTail.description>
+
+  <RS_BionicBellyscale.label>Бионическое чещуйчатое брюшко ракклов</RS_BionicBellyscale.label>
+  <RS_BionicBellyscale.description>Бионическое брюшко ракклов. Это протез, но двигается он даже лучше чем настоящий. </RS_BionicBellyscale.description>
+
+  <RS_VenomGlands.label>Ядовитая железа ракклов</RS_VenomGlands.label>
+  <RS_VenomGlands.description>Ядовитая железа ракклов.</RS_VenomGlands.description>
+
+  <RS_Thermostat.label>Термостат ракклов</RS_Thermostat.label>
+  <RS_Thermostat.description>Термостат ракклов. Крепится к телу. Определяет температуру окружающей среды и регулирует температуру тела.</RS_Thermostat.description>
+
+  <RS_ObedienceTerminal.label>Терминал принудительного послушания ракклов</RS_ObedienceTerminal.label>
+  <RS_ObedienceTerminal.description>Терминал принудительного послушания который обычно надевают на рабов из питомника. Он бьет электрическим разрядом раба, если он попытается напасть на своего хозяина. Он так же может ускорить обмен веществ в организме, позволяя пользователю двигаться быстрее, но он не слишком надежен.</RS_ObedienceTerminal.description>
+
+
+</LanguageData>
