@@ -3,9 +3,9 @@
 
   <!-- Childhood Free -->
 
-  <Rakkle_ColonyKid.title>Rakkle Colony kid</Rakkle_ColonyKid.title>
-  <Rakkle_ColonyKid.titleShort>colony kid</Rakkle_ColonyKid.titleShort>
-  <Rakkle_ColonyKid.baseDesc>[PAWN_nameDef] grew up in a Free Rakkle settlement, dreaming of adventure and unaware of the burden [PAWN_pronoun] was born into.</Rakkle_ColonyKid.baseDesc>
+  <Rakkle_ColonyKid.title>Ребенок из колонии Раккл</Rakkle_ColonyKid.title>
+  <Rakkle_ColonyKid.titleShort>ребенок из колонии</Rakkle_ColonyKid.titleShort>
+  <Rakkle_ColonyKid.baseDesc>[PAWN_nameDef] вырос в свободном поселении Раккл, мечтая о приключениях и не подозревая о бремени, с которым родился [PAWN_pronoun].</Rakkle_ColonyKid.baseDesc>
 
   <Rakkle_Student.title>Rakkle Student</Rakkle_Student.title>
   <Rakkle_Student.titleShort>Student</Rakkle_Student.titleShort>
