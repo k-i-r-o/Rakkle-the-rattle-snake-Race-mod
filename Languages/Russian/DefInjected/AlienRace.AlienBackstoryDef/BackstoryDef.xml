@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+1﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Childhood Free -->
@@ -27,12 +27,12 @@
   <Rakkle_Subject.titleShort>Объект изучения</Rakkle_Subject.titleShort>
   <Rakkle_Subject.baseDesc>[PAWN_nameDef] never had the advantage of living in a Free Rakkle settlement. [PAWN_possessive] youth was spent in the depths of Cradle laboratories; the subject of test after test of endurance and psychology. After a particularly grueling battery of tests, [PAWN_pronoun] fully lost [PAWN_possessive] grip on reality.</Rakkle_Subject.baseDesc>
 
-  <Rakkle_HunterAssistant.title>Rakkle Hunter assistant</Rakkle_HunterAssistant.title>
-  <Rakkle_HunterAssistant.titleShort>Hunter assistant</Rakkle_HunterAssistant.titleShort>
+  <Rakkle_HunterAssistant.title>Помощник охотника Ракклов</Rakkle_HunterAssistant.title>
+  <Rakkle_HunterAssistant.titleShort>Помощник охотника</Rakkle_HunterAssistant.titleShort>
   <Rakkle_HunterAssistant.baseDesc>[PAWN_nameDef] apprenticed under a famous hunter while living in the outskirts of a smaller Free Rakkle settlement. [PAWN_possessive] mentor was slow to praise, but [PAWN_nameDef]'s skill cannot be doubted.</Rakkle_HunterAssistant.baseDesc>
 
-  <Rakkle_BookWorm.title>Rakkle Booksnake</Rakkle_BookWorm.title>
-  <Rakkle_BookWorm.titleShort>Booksnake</Rakkle_BookWorm.titleShort>
+  <Rakkle_BookWorm.title>Книжный змей Ракллов</Rakkle_BookWorm.title>
+  <Rakkle_BookWorm.titleShort>Книжный змей</Rakkle_BookWorm.titleShort>
   <Rakkle_BookWorm.baseDesc>The world of fighting for survival and freedom never appealed to [PAWN_nameDef], who much preferred books and study. Teased as a booksnake, [PAWN_pronoun] hopes that [PAWN_pronoun] can cross words over blades, and draw discussion before firearms.</Rakkle_BookWorm.baseDesc>
 
   <Rakkle_ClothingStoreKid.title>Rakkle Clothing store kid</Rakkle_ClothingStoreKid.title>
