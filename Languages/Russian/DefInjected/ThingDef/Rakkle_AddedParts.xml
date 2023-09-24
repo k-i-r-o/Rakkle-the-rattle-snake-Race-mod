@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RS_WoodenTail.label>prosthetic wooden tail</RS_WoodenTail.label>
-  <RS_WoodenTail.description>A Rakkle tail prosthesis. While it lacks a neural interface, its complex arrangement of joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real tail.</RS_WoodenTail.description>
+  <RS_WoodenTail.label>деревянный протез хвоста</RS_WoodenTail.label>
+  <RS_WoodenTail.description>Протез хвоста Раккла. Хотя у него отсутствует нейронный интерфейс, сложное расположение суставов позволяет ему довольно убедительно имитировать естественные движения. Тем не менее, он уступает настоящему хвосту.</RS_WoodenTail.description>
 
   <RS_BionicTail.label>Бионический хвост ракклов</RS_BionicTail.label>
   <RS_BionicTail.description>Бионический хвост, соединяющий позвоночник и нервы. Это протез, но двигается он даже лучше чем настоящий.</RS_BionicTail.description>
