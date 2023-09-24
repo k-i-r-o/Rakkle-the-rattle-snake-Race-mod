@@ -23,33 +23,33 @@
   <Rakkle_Bully.titleShort>Хулиган</Rakkle_Bully.titleShort>
   <Rakkle_Bully.baseDesc>[PAWN_nameDef] вырос в небольшом поселении Ракклов, где не хватало ресурсов, чтобы должным образом заботиться обо всех. Без родителей, которые могли бы присматривать за [PAWN_possessive], [PAWN_pronoun] взял то, что [PAWN_pronoun] хотел, с помощью силы и принуждения.</Rakkle_Bully.baseDesc>
 
-  <Rakkle_Subject.title>Объект изучения Раклов</Rakkle_Subject.title>
+  <Rakkle_Subject.title>Объект изучения Ракклов</Rakkle_Subject.title>
   <Rakkle_Subject.titleShort>Объект изучения</Rakkle_Subject.titleShort>
   <Rakkle_Subject.baseDesc>[PAWN_nameDef] никогда не имел преимущества жить в свободном поселении Раккле. [PAWN_possessive] юность прошла в недрах лабораторий Cradle; предмет испытания за испытанием на выносливость и психологию. После особенно изнурительной серии тестов [PAWN_pronoun] полностью утратил [PAWN_possessive] связь с реальностью.</Rakkle_Subject.baseDesc>
 
-  <Rakkle_HunterAssistant.title>Помощник охотника Ракклов</Rakkle_HunterAssistant.title>
+  <Rakkle_HunterAssistant.title>Помощник охотника</Rakkle_HunterAssistant.title>
   <Rakkle_HunterAssistant.titleShort>Помощник охотника</Rakkle_HunterAssistant.titleShort>
   <Rakkle_HunterAssistant.baseDesc>[PAWN_nameDef] учился у знаменитого охотника, живя на окраине небольшого свободного поселения Ракклов. Наставник [PAWN_possessive] не спешил хвалить, но мастерство [PAWN_nameDef] не подлежит сомнению.</Rakkle_HunterAssistant.baseDesc>
 
-  <Rakkle_BookWorm.title>Книжный змей Ракллов</Rakkle_BookWorm.title>
+  <Rakkle_BookWorm.title>Книжный змей</Rakkle_BookWorm.title>
   <Rakkle_BookWorm.titleShort>Книжный змей</Rakkle_BookWorm.titleShort>
   <Rakkle_BookWorm.baseDesc>Мир борьбы за выживание и свободу никогда не привлекал [PAWN_nameDef], который предпочитал книги и учебу. Дразнимый как книжный змей, [PAWN_pronoun] надеется, что [PAWN_pronoun] сможет скрестить слова с клинками и вызвать дискуссию перед огнестрельным оружием.</Rakkle_BookWorm.baseDesc>
 
-  <Rakkle_ClothingStoreKid.title>Rakkle Clothing store kid</Rakkle_ClothingStoreKid.title>
-  <Rakkle_ClothingStoreKid.titleShort>Clothing store kid</Rakkle_ClothingStoreKid.titleShort>
-  <Rakkle_ClothingStoreKid.baseDesc>[PAWN_nameDef] is the adopted child of a notable seamster. While [PAWN_pronoun] managed to escape many of the harsh realities of living in the Rim, perhaps the things [PAWN_pronoun] learned will be of some use now out on [PAWN_possessive] own.</Rakkle_ClothingStoreKid.baseDesc>
+  <Rakkle_ClothingStoreKid.title>Дитя швеи Ракклов</Rakkle_ClothingStoreKid.title>
+  <Rakkle_ClothingStoreKid.titleShort>Дитя швеи Ракклов</Rakkle_ClothingStoreKid.titleShort>
+  <Rakkle_ClothingStoreKid.baseDesc>[PAWN_nameDef] - приемный ребенок известной швеи. В то время как [PAWN_pronoun] удалось избежать многих суровых реалий жизни в Приграничье, возможно, то, чему научился [PAWN_pronoun], теперь пригодится самому [PAWN_possessive].</Rakkle_ClothingStoreKid.baseDesc>
 
-  <Rakkle_ConstructionWorker.title>Rakkle Construction worker</Rakkle_ConstructionWorker.title>
-  <Rakkle_ConstructionWorker.titleShort>Construction worker</Rakkle_ConstructionWorker.titleShort>
-  <Rakkle_ConstructionWorker.baseDesc>Born with more brawn than average in a large colony, [PAWN_nameDef] found more success hauling materials and helping on construction sites. Though [PAWN_pronoun] struggles to learn more complex subjects, none can doubt [PAWN_possessive] work ethic.</Rakkle_ConstructionWorker.baseDesc>
+  <Rakkle_ConstructionWorker.title>Рабочий-строитель Ракклов</Rakkle_ConstructionWorker.title>
+  <Rakkle_ConstructionWorker.titleShort>Рабочий-строитель</Rakkle_ConstructionWorker.titleShort>
+  <Rakkle_ConstructionWorker.baseDesc>Рожденный в большой колонии с более развитой мускулатурой, чем в среднем, [PAWN_nameDef] добился большего успеха в перевозке материалов и помощи на строительных площадках. Хотя [PAWN_pronoun] изо всех сил старается изучать более сложные предметы, никто не может сомневаться в трудовой этике [PAWN_possessive].</Rakkle_ConstructionWorker.baseDesc>
 
-  <Rakkle_Orphan.title>Rakkle Orphan</Rakkle_Orphan.title>
-  <Rakkle_Orphan.titleShort>Orphan</Rakkle_Orphan.titleShort>
-  <Rakkle_Orphan.baseDesc>After [PAWN_possessive] parents died as a result of civil unrest, [PAWN_nameDef] was forced to live on the fringes of [PAWN_possessive] home colony as an outcast. Harsh realities are [PAWN_possessive] everyday existence, and [PAWN_pronoun] will do whatever is necessary to survive in the Rim.</Rakkle_Orphan.baseDesc>
+  <Rakkle_Orphan.title>Сирота Раккл</Rakkle_Orphan.title>
+  <Rakkle_Orphan.titleShort>Сирота</Rakkle_Orphan.titleShort>
+  <Rakkle_Orphan.baseDesc>После того, как родители [PAWN_possessive] умерли в результате гражданских беспорядков, [PAWN_nameDef] был вынужден жить на окраине родной колонии [PAWN_possessive] в качестве изгоя. Суровые реалии - это повседневное существование [PAWN_possessive], и [PAWN_pronoun] сделает все необходимое, чтобы выжить.</Rakkle_Orphan.baseDesc>
 
-  <Rakkle_ImmatureChild.title>Rakkle Immature child</Rakkle_ImmatureChild.title>
-  <Rakkle_ImmatureChild.titleShort>Immature child</Rakkle_ImmatureChild.titleShort>
-  <Rakkle_ImmatureChild.baseDesc>[PAWN_nameDef] is a youthful Rakkle, still innocent to life in the Rim.</Rakkle_ImmatureChild.baseDesc>
+  <Rakkle_ImmatureChild.title>Незрелый ребенок Ракклов</Rakkle_ImmatureChild.title>
+  <Rakkle_ImmatureChild.titleShort>Незрелый ребенок</Rakkle_ImmatureChild.titleShort>
+  <Rakkle_ImmatureChild.baseDesc>[PAWN_nameDef] - юный Раккл, все еще неподготовленный к жизни.</Rakkle_ImmatureChild.baseDesc>
 
   <Rakkle_PrecociousChild.title>Trading Precocious child</Rakkle_PrecociousChild.title>
   <Rakkle_PrecociousChild.titleShort>Precocious child</Rakkle_PrecociousChild.titleShort>
