@@ -51,50 +51,50 @@
   <Rakkle_ImmatureChild.titleShort>Незрелый ребенок</Rakkle_ImmatureChild.titleShort>
   <Rakkle_ImmatureChild.baseDesc>[PAWN_nameDef] - юный Раккл, все еще неподготовленный к жизни.</Rakkle_ImmatureChild.baseDesc>
 
-  <Rakkle_PrecociousChild.title>Trading Precocious child</Rakkle_PrecociousChild.title>
-  <Rakkle_PrecociousChild.titleShort>Precocious child</Rakkle_PrecociousChild.titleShort>
-  <Rakkle_PrecociousChild.baseDesc>[PAWN_nameDef] matured faster than their peers in [PAWN_possessive] home colony, becoming something of an older sibling for many. [PAWN_pronoun] often needed to learn new things rapidly, for the benefit of [PAWN_possessive] family.</Rakkle_PrecociousChild.baseDesc>
+  <Rakkle_PrecociousChild.title>Дитя прирожденный торговец</Rakkle_PrecociousChild.title>
+  <Rakkle_PrecociousChild.titleShort>Не по годам развитый ребенок</Rakkle_PrecociousChild.titleShort>
+  <Rakkle_PrecociousChild.baseDesc>[PAWN_nameDef] взрослели быстрее, чем их сверстники в родной колонии [PAWN_possessive], становясь для многих чем-то вроде старшего брата. [PAWN_pronoun] часто требовалось быстро осваивать новые вещи на благо семьи [PAWN_possessive].</Rakkle_PrecociousChild.baseDesc>
 
-  <Rakkle_CuriousChild.title>Rakkle Curious child</Rakkle_CuriousChild.title>
-  <Rakkle_CuriousChild.titleShort>Curious child</Rakkle_CuriousChild.titleShort>
-  <Rakkle_CuriousChild.baseDesc>Curiosity killed the cat, but it failed to kill [PAWN_nameDef]. [PAWN_pronoun] never stopped asking questions, and though it causes [PAWN_possessive] problems [PAWN_pronoun] is always eager to dig deeper to understand the world around [PAWN_possessive].</Rakkle_CuriousChild.baseDesc>
+  <Rakkle_CuriousChild.title>Любопытный ребенок Ракклов</Rakkle_CuriousChild.title>
+  <Rakkle_CuriousChild.titleShort>Рэккл Любопытный ребенок</Rakkle_CuriousChild.titleShort>
+  <Rakkle_CuriousChild.baseDesc>Любопытство убило кошку, но ему не удалось убить [PAWN_nameDef]. [PAWN_pronoun] никогда не переставал задавать вопросы, и хотя это вызывает у [PAWN_possessive] проблемы, [PAWN_pronoun] всегда стремится копать глубже, чтобы понять окружающий мир [PAWN_possessive].</Rakkle_CuriousChild.baseDesc>
 
-  <Rakkle_WildSnake.title>Rakkle Wild snake</Rakkle_WildSnake.title>
-  <Rakkle_WildSnake.titleShort>Wild snake</Rakkle_WildSnake.titleShort>
-  <Rakkle_WildSnake.baseDesc>[PAWN_nameDef] avoided capture for years, until [PAWN_possessive] pursuers gave up and left [PAWN_possessive] for dead. However, life in the rim is even harder for Rakkles not integrated into communities, so [PAWN_nameDef] decided to face the challenge of joining one.</Rakkle_WildSnake.baseDesc>
+  <Rakkle_WildSnake.title>Дикий змей Ракклов</Rakkle_WildSnake.title>
+  <Rakkle_WildSnake.titleShort>Дикий змей</Rakkle_WildSnake.titleShort>
+  <Rakkle_WildSnake.baseDesc>[PAWN_nameDef] избегал поимки в течение многих лет, пока преследователи [PAWN_possessive] не сдались и не оставили [PAWN_possessive] умирать. Однако жизнь еще тяжелее для ракклов, не интегрированных в сообщества, поэтому [PAWN_nameDef] решил принять вызов и присоединиться к одному из них.</Rakkle_WildSnake.baseDesc>
 
-  <Rakkle_Slumsnake.title>Rakkle Slumsnake</Rakkle_Slumsnake.title>
-  <Rakkle_Slumsnake.titleShort>Slumsnake</Rakkle_Slumsnake.titleShort>
-  <Rakkle_Slumsnake.baseDesc>[PAWN_nameDef] began [PAWN_possessive] life as a slave to a colony slumlord, often being used as a bribe [PAWN_objective]self to placate officials. After murdering [PAWN_possessive] owner, [PAWN_pronoun] left the colony to find refuge elsewhere.</Rakkle_Slumsnake.baseDesc>
+  <Rakkle_Slumsnake.title>Раккл - змея из трущоб</Rakkle_Slumsnake.title>
+  <Rakkle_Slumsnake.titleShort>Змея из трущоб</Rakkle_Slumsnake.titleShort>
+  <Rakkle_Slumsnake.baseDesc>[PAWN_nameDef] начал [PAWN_possessive] жизнь рабом хозяина трущоб колонии, часто его использовали в качестве взятки [PAWN_objective] самому себе, чтобы задобрить чиновников. После убийства владельца [PAWN_possessive], [PAWN_pronoun] покинул колонию, чтобы найти убежище в другом месте.</Rakkle_Slumsnake.baseDesc>
 
-  <Rakkle_Shutin.title>Rakkle shut in</Rakkle_Shutin.title>
-  <Rakkle_Shutin.titleShort>shut in</Rakkle_Shutin.titleShort>
-  <Rakkle_Shutin.baseDesc>[PAWN_nameDef] could never stand being seen, and [PAWN_pronoun] took care to stay out of sight whenever possible. Attention always brought trouble for [PAWN_possessive] and [PAWN_pronoun] only enters a colony out of necessity. Perhaps this time, it will end differently...</Rakkle_Shutin.baseDesc>
+  <Rakkle_Shutin.title>Затворник Ракклов</Rakkle_Shutin.title>
+  <Rakkle_Shutin.titleShort>Затворник</Rakkle_Shutin.titleShort>
+  <Rakkle_Shutin.baseDesc>[PAWN_nameDef] терпеть не мог, когда его видели, и [PAWN_pronoun] старался по возможности оставаться вне поля зрения. Внимание всегда доставляло неприятности [PAWN_possessive], а [PAWN_pronoun] входит в колонию только по необходимости. Возможно, на этот раз все закончится по-другому...</Rakkle_Shutin.baseDesc>
 
-  <Rakkle_AbandonedYoungSlave.title>Rakkle Abandoned young slave</Rakkle_AbandonedYoungSlave.title>
-  <Rakkle_AbandonedYoungSlave.titleShort>Abandoned young slave</Rakkle_AbandonedYoungSlave.titleShort>
-  <Rakkle_AbandonedYoungSlave.baseDesc>[PAWN_nameDef] was a slave in a small human settlement. Once the settlemnt was itself overrun by raiders, anyone left alive had nowhere else to go. [PAWN_nameDef] survived in the wild for a time, but ultimately could not survive on [PAWN_possessive] own, and sought help.</Rakkle_AbandonedYoungSlave.baseDesc>
+  <Rakkle_AbandonedYoungSlave.title>Брошенный молодой раб Ракклов</Rakkle_AbandonedYoungSlave.title>
+  <Rakkle_AbandonedYoungSlave.titleShort>Брошенный молодой раб</Rakkle_AbandonedYoungSlave.titleShort>
+  <Rakkle_AbandonedYoungSlave.baseDesc>[PAWN_nameDef] был рабом в маленьком человеческом поселении. Как только поселение само по себе было захвачено рейдерами, всем, кто остался в живых, больше некуда было идти. [PAWN_nameDef] некоторое время выживал в дикой природе, но в конечном счете не смог выжить самостоятельно [PAWN_possessive] и обратился за помощью.</Rakkle_AbandonedYoungSlave.baseDesc>
 
-  <Rakkle_IdolTrainee.title>Rakkle Idol trainee</Rakkle_IdolTrainee.title>
-  <Rakkle_IdolTrainee.titleShort>Idol trainee</Rakkle_IdolTrainee.titleShort>
-  <Rakkle_IdolTrainee.baseDesc>[PAWN_nameDef] was inspired by [PAWN_possessive] favorite idol, but had little opportunity in [PAWN_possessive] small Free Rakkle settlement. [PAWN_pronoun] set out to find larger horizons and more fans [PAWN_pronoun] could call [PAWN_possessive] own.</Rakkle_IdolTrainee.baseDesc>
+  <Rakkle_IdolTrainee.title>Идол Ракклов</Rakkle_IdolTrainee.title>
+  <Rakkle_IdolTrainee.titleShort>Идол</Rakkle_IdolTrainee.titleShort>
+  <Rakkle_IdolTrainee.baseDesc>[PAWN_nameDef] был вдохновлен любимым идолом [PAWN_possessive], но у него было мало возможностей в [PAWN_possessive] маленьком свободном поселении Ракклов. [PAWN_pronoun] намеревался найти более широкие горизонты и больше поклонников, которых [PAWN_pronoun] мог бы назвать [PAWN_possessive] своими.</Rakkle_IdolTrainee.baseDesc>
 
-  <Rakkle_LittleGlutton.title>Rakkle Little glutton</Rakkle_LittleGlutton.title>
-  <Rakkle_LittleGlutton.titleShort>Little glutton</Rakkle_LittleGlutton.titleShort>
-  <Rakkle_LittleGlutton.baseDesc>[PAWN_nameDef] found [PAWN_possessive] first taste of gourmet food in the kitchens of [PAWN_possessive] wealthy owner's estate. [PAWN_pronoun] could not get enonugh, but when the owner passed away, even as an independent Rakkle [PAWN_pronoun] could not find work as a chef. [PAWN_pronoun] set off to find someone who could appreciate [PAWN_possessive] talents.</Rakkle_LittleGlutton.baseDesc>
+  <Rakkle_LittleGlutton.title>Маленький обжора Ракклов</Rakkle_LittleGlutton.title>
+  <Rakkle_LittleGlutton.titleShort>Маленький обжора</Rakkle_LittleGlutton.titleShort>
+  <Rakkle_LittleGlutton.baseDesc>[PAWN_nameDef] обнаружил, что [PAWN_possessive] впервые попробовал изысканные блюда на кухне поместья [PAWN_possessive] богатого владельца. [PAWN_pronoun] не мог насытиться, но когда владелец скончался, даже будучи независимым, Раккл [PAWN_pronoun] не смог найти работу шеф-повара. [PAWN_pronoun] отправился на поиски кого-то, кто смог бы оценить таланты [PAWN_possessive].</Rakkle_LittleGlutton.baseDesc>
 
-  <Rakkle_PlantLover.title>Rakkle Plant lover</Rakkle_PlantLover.title>
-  <Rakkle_PlantLover.titleShort>Plant lover</Rakkle_PlantLover.titleShort>
-  <Rakkle_PlantLover.baseDesc>[PAWN_nameDef] was born and raised in the wild to a small Rakkle family. [PAWN_pronoun] spent [PAWN_possessive] days out in the woods around [PAWN_possessive] house, learning the names and properties of local flora. Eventually the area grew smaller as [PAWN_pronoun] grew older, and [PAWN_pronoun] left to find a wider world with ever stranger plant life.</Rakkle_PlantLover.baseDesc>
+  <Rakkle_PlantLover.title>Любитель растений Ракклов</Rakkle_PlantLover.title>
+  <Rakkle_PlantLover.titleShort>Любитель растений</Rakkle_PlantLover.titleShort>
+  <Rakkle_PlantLover.baseDesc>[PAWN_nameDef] родился и вырос в дикой природе в маленькой семье Ракклов. [PAWN_pronoun] проводил [PAWN_possessive] дни в лесу вокруг дома [PAWN_possessive], изучая названия и свойства местной флоры. В конце концов, по мере того, как [PAWN_pronoun] становился старше, территория становилась все меньше, и [PAWN_pronoun] ушел, чтобы найти более широкий мир со все более странной растительной жизнью.</Rakkle_PlantLover.baseDesc>
 
 
   <!-- Childhood Cradle -->
 
-  <CRD_YoungGoods.title>Cradle Young Goods</CRD_YoungGoods.title>
-  <CRD_YoungGoods.titleShort>Young Goods</CRD_YoungGoods.titleShort>
-  <CRD_YoungGoods.baseDesc>[PAWN_nameDef] is fresh from the arms of The Cradle; a blank slate ready and willing to serve the needs of its newest masters.</CRD_YoungGoods.baseDesc>
+  <CRD_YoungGoods.title>Молодой товар Ракклов</CRD_YoungGoods.title>
+  <CRD_YoungGoods.titleShort>Молодой товар</CRD_YoungGoods.titleShort>
+  <CRD_YoungGoods.baseDesc>[PAWN_nameDef] только что вышел из колыбели; чистый лист, готовый и желающий служить потребностям своих новых хозяев.</CRD_YoungGoods.baseDesc>
 
-  <CRD_CradleLeaderChild.title>Cradle Cradle Leader Child</CRD_CradleLeaderChild.title>
+  <CRD_CradleLeaderChild.title>Cradle Cradle Leader Child</CRD_CradleLeaderChild.title> 
   <CRD_CradleLeaderChild.titleShort>Cradle leader child</CRD_CradleLeaderChild.titleShort>
   <CRD_CradleLeaderChild.baseDesc>[PAWN_nameDef] was promising even by The Cradle's high standards, and was marketed as useful for even leadership or municipal duties in society. It looks forward to helping its community grow.</CRD_CradleLeaderChild.baseDesc>
 
