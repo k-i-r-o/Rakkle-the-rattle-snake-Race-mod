@@ -13,19 +13,19 @@
 
   <Rakkle_EmergencyFood.title>Еда для экстренных случаев Ракклов</Rakkle_EmergencyFood.title>
   <Rakkle_EmergencyFood.titleShort>Еда для экстренных случаев</Rakkle_EmergencyFood.titleShort>
-  <Rakkle_EmergencyFood.baseDesc>[PAWN_nameDef] is a young Rakkle kidnapped by a cannibal tribe. [PAWN_pronoun] spent months watching friends and family disappear one after the other without much hope for survival. After digging a tunnel in secret, [PAWN_nameDef] managed to escape, keeping [PAWN_possessive] life but bearing the scars of missing family and broken innocence.</Rakkle_EmergencyFood.baseDesc>
+  <Rakkle_EmergencyFood.baseDesc>[PAWN_nameDef] - молодой Раккл, похищенный племенем каннибалов. [PAWN_pronoun] провел месяцы, наблюдая, как друзья и семья исчезают один за другим, без особой надежды на выживание. Тайно прорыв туннель, [PAWN_nameDef] сумел сбежать, сохранив жизнь [PAWN_possessive], но неся на себе шрамы пропавшей семьи и разбитой невинности.</Rakkle_EmergencyFood.baseDesc>
 
   <Rakkle_GiftedChild.title>Одаренный ребёнок Ракклов</Rakkle_GiftedChild.title>
   <Rakkle_GiftedChild.titleShort>Одарённый ребёнок</Rakkle_GiftedChild.titleShort>
-  <Rakkle_GiftedChild.baseDesc>[PAWN_nameDef] is a gifted child among Rakkle youths, and received a high level of education. [PAWN_pronoun] did very well but could not stand the pressure and expectations, fleeing [PAWN_possessive] home colony.</Rakkle_GiftedChild.baseDesc>
+  <Rakkle_GiftedChild.baseDesc>[PAWN_nameDef] - одаренный ребенок среди молодежи Ракклов, получивший высокий уровень образования. [PAWN_pronoun] держался очень хорошо, но не выдержал давления и ожиданий, сбежав из родной колонии [PAWN_possessive].</Rakkle_GiftedChild.baseDesc>
 
   <Rakkle_Bully.title>Хулиган Ракклов</Rakkle_Bully.title>
   <Rakkle_Bully.titleShort>Хулиган</Rakkle_Bully.titleShort>
-  <Rakkle_Bully.baseDesc>[PAWN_nameDef] was raised in a smaller Rakkle settlement, that lacked the resources to care for everyone properly. Without parents to look after [PAWN_possessive], [PAWN_pronoun] took what [PAWN_pronoun] wanted through force and coercion.</Rakkle_Bully.baseDesc>
+  <Rakkle_Bully.baseDesc>[PAWN_nameDef] вырос в небольшом поселении Ракклов, где не хватало ресурсов, чтобы должным образом заботиться обо всех. Без родителей, которые могли бы присматривать за [PAWN_possessive], [PAWN_pronoun] взял то, что [PAWN_pronoun] хотел, с помощью силы и принуждения.</Rakkle_Bully.baseDesc>
 
   <Rakkle_Subject.title>Объект изучения Раклов</Rakkle_Subject.title>
   <Rakkle_Subject.titleShort>Объект изучения</Rakkle_Subject.titleShort>
-  <Rakkle_Subject.baseDesc>[PAWN_nameDef] never had the advantage of living in a Free Rakkle settlement. [PAWN_possessive] youth was spent in the depths of Cradle laboratories; the subject of test after test of endurance and psychology. After a particularly grueling battery of tests, [PAWN_pronoun] fully lost [PAWN_possessive] grip on reality.</Rakkle_Subject.baseDesc>
+  <Rakkle_Subject.baseDesc>[PAWN_nameDef] никогда не имел преимущества жить в свободном поселении Раккле. [PAWN_possessive] юность прошла в недрах лабораторий Cradle; предмет испытания за испытанием на выносливость и психологию. После особенно изнурительной серии тестов [PAWN_pronoun] полностью утратил [PAWN_possessive] связь с реальностью.</Rakkle_Subject.baseDesc>
 
   <Rakkle_HunterAssistant.title>Помощник охотника Ракклов</Rakkle_HunterAssistant.title>
   <Rakkle_HunterAssistant.titleShort>Помощник охотника</Rakkle_HunterAssistant.titleShort>
