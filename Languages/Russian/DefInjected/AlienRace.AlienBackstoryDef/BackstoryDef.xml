@@ -29,11 +29,11 @@
 
   <Rakkle_HunterAssistant.title>Помощник охотника Ракклов</Rakkle_HunterAssistant.title>
   <Rakkle_HunterAssistant.titleShort>Помощник охотника</Rakkle_HunterAssistant.titleShort>
-  <Rakkle_HunterAssistant.baseDesc>[PAWN_nameDef] apprenticed under a famous hunter while living in the outskirts of a smaller Free Rakkle settlement. [PAWN_possessive] mentor was slow to praise, but [PAWN_nameDef]'s skill cannot be doubted.</Rakkle_HunterAssistant.baseDesc>
+  <Rakkle_HunterAssistant.baseDesc>[PAWN_nameDef] учился у знаменитого охотника, живя на окраине небольшого свободного поселения Ракклов. Наставник [PAWN_possessive] не спешил хвалить, но мастерство [PAWN_nameDef] не подлежит сомнению.</Rakkle_HunterAssistant.baseDesc>
 
   <Rakkle_BookWorm.title>Книжный змей Ракллов</Rakkle_BookWorm.title>
   <Rakkle_BookWorm.titleShort>Книжный змей</Rakkle_BookWorm.titleShort>
-  <Rakkle_BookWorm.baseDesc>The world of fighting for survival and freedom never appealed to [PAWN_nameDef], who much preferred books and study. Teased as a booksnake, [PAWN_pronoun] hopes that [PAWN_pronoun] can cross words over blades, and draw discussion before firearms.</Rakkle_BookWorm.baseDesc>
+  <Rakkle_BookWorm.baseDesc>Мир борьбы за выживание и свободу никогда не привлекал [PAWN_nameDef], который предпочитал книги и учебу. Дразнимый как книжный змей, [PAWN_pronoun] надеется, что [PAWN_pronoun] сможет скрестить слова с клинками и вызвать дискуссию перед огнестрельным оружием.</Rakkle_BookWorm.baseDesc>
 
   <Rakkle_ClothingStoreKid.title>Rakkle Clothing store kid</Rakkle_ClothingStoreKid.title>
   <Rakkle_ClothingStoreKid.titleShort>Clothing store kid</Rakkle_ClothingStoreKid.titleShort>
